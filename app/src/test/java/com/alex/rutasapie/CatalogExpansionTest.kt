@@ -41,6 +41,13 @@ class CatalogExpansionTest {
         assertTrue("Castilla y León" in RouteGeography.filters(catalog()))
         assertTrue("Ávila" in RouteGeography.filters(catalog()))
     }
+    @Test fun oneHundredVersion17RoutesAddTwoPerProvince() {
+        val added = catalog().filter { it.id in 1126..1225 }
+        assertEquals(100, added.size)
+        assertEquals(50, added.map { it.provincia }.distinct().size)
+        assertTrue(added.groupingBy { it.provincia }.eachCount().values.all { it == 2 })
+        assertTrue(added.all { it.comunidad.isNotBlank() && RouteCodec.validSource(it.fuente) })
+    }
     @Test fun newMetadataRoundTripsWithoutChangingLegacyJson() {
         val new = catalog().first { it.id == 1001 }
         assertEquals(listOf(new), RouteCodec.decode(RouteCodec.encode(listOf(new)), false))

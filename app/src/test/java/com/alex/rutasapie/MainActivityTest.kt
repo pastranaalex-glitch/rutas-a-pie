@@ -54,7 +54,7 @@ class MainActivityTest {
     @Test fun completedAndPendingFiltersAgree() {
         val app=org.robolectric.RuntimeEnvironment.getApplication()
         app.getSharedPreferences("rutas_a_pie_prefs",0).edit().putStringSet("rutas_realizadas",setOf("1","2")).commit()
-        for((filter,n) in listOf("Realizadas" to 2,"Pendientes" to 223)) {
+        for((filter,n) in listOf("Realizadas" to 2,"Pendientes" to 398)) {
             val c=Robolectric.buildActivity(MainActivity::class.java).create(Bundle().apply {putString("marcas",filter)}).start().resume()
             assertTrue((field(c.get(),"txtResumen") as android.widget.TextView).text.toString().startsWith("$n rutas"))
             c.pause().stop().destroy()
