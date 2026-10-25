@@ -1,0 +1,62 @@
+[
+  {
+    "id": "empezar",
+    "titulo": "1. Primeros pasos",
+    "texto": "1. Abre Rutas a Pie y elige una comunidad o provincia en el selector «Todas».\n2. Escribe el nombre de una ruta, localidad, comunidad o dificultad para buscar.\n3. Pulsa «Detalles» y revisa distancia, duración, consejos y cómo llegar. Las fichas ampliadas tienen «Consultar fuente oficial».\n4. Para registrar tu paseo, abre «Mapa y GPS», permite la ubicación precisa y pulsa «Grabar».\n5. Al terminar, pulsa «Guardar y terminar». La caminata queda en «Historial».\n\nEl catálogo contiene 400 fichas, con 100 nuevas en esta versión y presencia en las 17 comunidades autónomas. Las fichas describen rutas: no contienen trazados GPS descargados. La app es gratuita; algunos espacios visitables pueden exigir entrada, reserva o permiso."
+  },
+  {
+    "id": "catalogo",
+    "titulo": "2. Buscar, filtrar y ordenar",
+    "texto": "El selector permite elegir una comunidad, una provincia o una zona del catálogo. «Todas» elimina el filtro territorial. Las seis zonas anteriores se mantienen.\n\nLa búsqueda acepta palabras con o sin tilde. Busca «Castilla y León», «Huesca», un nombre de ruta o «cascadas». Se combina con el selector y con «Mis rutas».\n\nEn «Ordenar» puedes elegir nombre, distancia, duración, dificultad, comunidad/zona o categoría. Los datos ausentes aparecen como «Sin dato» y se sitúan al final al ordenar por distancia o duración.\n\nLas distancias y tiempos son orientativos. «Solo ida» necesita organizar el regreso; «ida y vuelta» ya lo incluye. Si una ficha no aporta un dato, consulta su fuente antes de salir. Una comunidad antigua puede contener fichas de zonas limítrofes: comprueba siempre la ubicación real."
+  },
+  {
+    "id": "marcas",
+    "titulo": "3. Favoritas y rutas realizadas",
+    "texto": "Pulsa ☆ en una tarjeta para añadirla a favoritas; ★ la elimina de esa selección.\n\nPulsa «Marcar» cuando hayas realizado la ruta. «✓ Hecha» permite quitar la marca. También puedes cambiar la favorita desde «Detalles».\n\nEn «Mis rutas» elige «Todas», «Favoritas», «Realizadas» o «Pendientes». Los filtros se combinan con la búsqueda y la zona. Si no ves una ruta, revisa esos filtros.\n\nGuardar una caminata GPS no marca automáticamente una ficha como realizada: puedes caminar un recorrido diferente o completar solo una parte. Las marcas permanecen guardadas en el teléfono."
+  },
+  {
+    "id": "gps",
+    "titulo": "4. Mapa y grabación GPS",
+    "texto": "1. Abre «Mapa y GPS», desde la cabecera o el botón «GPS» de una ficha. El nombre de la ficha se propone para tu caminata.\n2. Pulsa «Mi posición» y permite la ubicación mientras usas la app. Para grabar se necesita «Ubicación precisa» y la ubicación del teléfono activada.\n3. Espera una posición reciente. Al aire libre suele haber mejor señal que dentro de edificios.\n4. Pulsa «Grabar», escribe el nombre y confirma.\n5. Camina y consulta distancia, tiempo activo, velocidad actual y velocidad media.\n\nEl punto azul muestra tu posición y el círculo indica su precisión. La línea naranja es el recorrido que grabas y el punto verde es su inicio. Puedes arrastrar el mapa y ampliar con dos dedos. «Mi posición» vuelve a centrarlo y activa el seguimiento.\n\nAbrir el GPS desde una ficha no dibuja automáticamente el sendero descrito. Importa un GPX para ver una geometría de referencia."
+  },
+  {
+    "id": "precision",
+    "titulo": "5. Precisión, distancia y velocidad",
+    "texto": "«Precisión ±10 m» expresa la incertidumbre estimada por el teléfono, no una garantía de posición exacta. Una posición antigua aparece gris.\n\nSe descartan posiciones antiguas, saltos incompatibles con caminar y puntos con precisión peor que 35 metros para calcular el recorrido. La app también reduce el ruido cuando estás parado. En un túnel, bosque denso o barranco la medición puede perder puntos o subestimar distancia.\n\nLa velocidad actual depende de la señal reciente. La media se calcula con la distancia registrada y el tiempo activo de grabación. «Tiempo activo» incluye las paradas mientras no pulses «Pausar»; no es un detector automático de movimiento.\n\nLa distancia se calcula entre puntos GPS: no representa un levantamiento topográfico ni la longitud exacta sobre el terreno."
+  },
+  {
+    "id": "pausas",
+    "titulo": "6. Pausar, reanudar y terminar",
+    "texto": "«Pausar» detiene el cronómetro y la recogida de posiciones. Úsalo al descansar o durante un traslado que no deseas medir.\n\n«Reanudar» abre un tramo nuevo; la app no suma una línea recta entre el lugar donde pausaste y el lugar donde reanudas. Los huecos prolongados de señal también pueden separar tramos.\n\n«Guardar y terminar» conserva los datos y detiene la grabación. Para empezar otra caminata, termina primero la anterior.\n\nLa notificación permite pausar, reanudar y terminar. Con la grabación activa puedes apagar la pantalla o consultar la ayuda. Comprueba el funcionamiento en tu móvil: sus ajustes de batería pueden afectar al servicio.\n\nSi Android cierra el proceso o reinicias el teléfono, la caminata se recupera pausada. Vuelve a abrir el GPS y elige continuar o terminar."
+  },
+  {
+    "id": "historial",
+    "titulo": "7. Historial y punto de inicio",
+    "texto": "Pulsa «Historial» en la pantalla GPS para abrir una caminata guardada o un GPX importado.\n\n«Más → Ver recorrido completo» ajusta el mapa al trazado. Durante una grabación puedes seleccionar un recorrido previo como referencia: aparece con línea gris discontinua.\n\n«Inicio» centra el primer punto de la caminata. La distancia y el rumbo mostrados son en línea recta. No calculan un camino seguro de vuelta ni evitan barrancos, ríos, propiedades privadas u otros obstáculos.\n\n«Más → Borrar caminata seleccionada» elimina ese registro después de confirmar. Primero termina cualquier grabación activa y exporta un GPX si quieres conservarlo. Borrar una caminata no borra una ficha del catálogo."
+  },
+  {
+    "id": "gpx",
+    "titulo": "8. Importar y exportar trazados GPX",
+    "texto": "IMPORTAR\n1. Abre «Mapa y GPS → Más → Importar trazado GPX».\n2. Elige un archivo .gpx guardado en el teléfono.\n3. Revisa el nombre y los puntos y confirma.\n4. Si no estás grabando, se abre el trazado importado; durante la grabación se usa como referencia gris discontinua. También queda en «Historial».\n\nEXPORTAR\n1. Selecciona una caminata o un trazado en «Historial».\n2. Pulsa «Más → Exportar recorrido GPX».\n3. Elige dónde guardar el archivo y confirma.\n\nEl límite de importación es 10 MB y 100.000 puntos. Se validan coordenadas y tiempos. Un GPX puede contener datos personales sobre dónde caminaste: compártelo solo con quien elijas.\n\nConsultar un GPX en el mapa no activa navegación guiada por voz ni avisos automáticos de desvío."
+  },
+  {
+    "id": "json",
+    "titulo": "9. Añadir, importar y exportar fichas JSON",
+    "texto": "En «Ajustes → Añadir ruta» puedes crear una ficha propia con el mismo formato del catálogo. El nombre es obligatorio. Guarda los cambios con el botón de confirmación.\n\n«Ajustes → Importar rutas» abre archivos JSON de fichas. Acepta una lista, una ficha o un objeto con «rutas»/«items». Las copias exactas se omiten; las variantes se conservan como rutas adicionales. Se admiten campos opcionales «comunidad» y «fuente»; el enlace de fuente debe usar HTTPS.\n\n«Ajustes → Exportar rutas» guarda las fichas en JSON para conservarlas o importarlas en otra instalación. Hay un límite de 2 MB por archivo y 1.000 fichas en el catálogo total.\n\nLa exportación JSON contiene fichas; no incluye los recorridos GPS ni las marcas de favoritas/realizadas. Exporta las caminatas como GPX aparte.\n\n«Borrar rutas importadas» afecta a tus fichas añadidas o importadas. Las fichas base se mantienen. Si la app detecta datos dañados, bloquea cambios para protegerlos y ofrece «Recuperar copia anterior»."
+  },
+  {
+    "id": "permisos",
+    "titulo": "10. Permisos y problemas frecuentes",
+    "texto": "NO APARECE MI POSICIÓN\nActiva la ubicación del teléfono. Pulsa «Mi posición» y permite la ubicación mientras usas la app. Sal a un espacio abierto y espera una señal reciente. La grabación exige ubicación precisa.\n\nEL MAPA QUEDA VACÍO\nComprueba internet y vuelve a abrir la pantalla. El GPS puede registrar posiciones sin internet; el fondo cartográfico necesita conexión o teselas ya guardadas en caché. La app no incorpora descarga de mapas para uso sin conexión.\n\nNO VEO LA NOTIFICACIÓN\nEn Android 13 o posterior, permite las notificaciones para usar cómodamente los controles de grabación. Puedes revisar los permisos en «Más → Abrir ajustes».\n\nSE DETIENE CON LA PANTALLA APAGADA\nRevisa los ajustes de batería de la aplicación y evita forzar su cierre. Haz una prueba corta, revisa el historial y confirma que el móvil conserva la grabación antes de una salida larga.\n\nNO PUEDO ABRIR UN ARCHIVO\nComprueba que has elegido JSON para fichas o GPX para trazados, que no supera los límites y que el archivo está completo. La app muestra el error y conserva los datos anteriores."
+  },
+  {
+    "id": "emergencias",
+    "titulo": "11. Preparar la salida y compartir posición",
+    "texto": "Revisa la ficha y su fuente oficial, la meteorología, los accesos, las reservas y el tiempo necesario para volver. Lleva agua, ropa y calzado adecuados y suficiente batería. Informa a alguien de tu recorrido previsto.\n\n«AEMET» abre la información meteorológica externa. «Ayuda senderista» conserva los consejos rápidos de seguridad. «Llamada rápida» abre el marcador con el número configurado; confirma la llamada en el teléfono. Puedes cambiar el número en Ajustes.\n\nEn «Mapa y GPS → Más → Compartir mi posición», la app prepara coordenadas, precisión y un enlace. Elige la aplicación y el destinatario y confirma el envío. No se envía automáticamente.\n\nLa app no llama por sí sola, no envía alertas de rescate y no garantiza cobertura. En una emergencia real utiliza el 112 cuando sea posible y describe dónde estás."
+  },
+  {
+    "id": "privacidad",
+    "titulo": "12. Datos, privacidad y actualización",
+    "texto": "Favoritas, marcas de realizadas, fichas propias y caminatas se guardan en el teléfono. Los recorridos GPS no se envían a un servidor de Rutas a Pie.\n\nEl mapa de OpenStreetMap utiliza internet: su proveedor recibe tu IP y las teselas solicitadas. Abrir una fuente, AEMET o Maps usa el navegador o aplicación externa correspondiente. Compartir y exportar requieren una acción tuya.\n\nLas preferencias pueden participar en la copia de seguridad de Android; las caminatas GPS se excluyen de la copia en la nube. Conserva tus exportaciones en un lugar que puedas recuperar.\n\nPara actualizar manteniendo datos, instala una versión con el mismo identificador de aplicación y la misma firma. El APK de prueba del ZIP puede tener otra firma que tu instalación. Compila y firma con la clave habitual; no desinstales una versión con datos importantes sin respaldarlos.\n\nLas 175 fichas anteriores conservan sus identificadores en esta ampliación. Las 50 nuevas utilizan identificadores separados."
+  }
+]

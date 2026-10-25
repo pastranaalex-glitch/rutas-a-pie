@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="sharedpref" path="rutas_a_pie_prefs.xml" />
+        <include domain="sharedpref" path="rutas_a_pie_recuperacion.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="sharedpref" path="rutas_a_pie_prefs.xml" />
+        <include domain="sharedpref" path="rutas_a_pie_recuperacion.xml" />
+        <include domain="database" path="walks.db" />
+    </device-transfer>
+</data-extraction-rules>

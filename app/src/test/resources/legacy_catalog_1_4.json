@@ -1,0 +1,3353 @@
+[
+  {
+    "id": 1,
+    "provincia": "Asturias",
+    "nombre": "Ruta del Cares",
+    "ubicacion": "Parque Nacional de los Picos de Europa",
+    "comoLlegar": "Desde Poncebos, con aparcamiento limitado. También puede iniciarse desde Caín.",
+    "distancia": "12 km solo ida / 24 km ida y vuelta",
+    "desnivel": "300 m",
+    "duracion": "3-4 h solo ida / 6-8 h ida y vuelta",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Sendero espectacular excavado en la roca, entre paredes verticales y vistas al río Cares.",
+    "consejos": [
+      "Llevar agua suficiente",
+      "Usar calzado de montaña",
+      "Evitar horas centrales en verano",
+      "Precaución en túneles y zonas estrechas"
+    ]
+  },
+  {
+    "id": 2,
+    "provincia": "Asturias",
+    "nombre": "Senda Costera de Llanes",
+    "ubicacion": "Llanes, Celorio y Andrín",
+    "comoLlegar": "Accesos desde Llanes, Celorio o Andrín. Se puede adaptar por tramos.",
+    "distancia": "10-15 km según tramo",
+    "desnivel": "Bajo",
+    "duracion": "3-5 h",
+    "dificultad": "Fácil",
+    "tipo": "Lineal por tramos",
+    "categoria": "Costa",
+    "descripcion": "Ruta junto al Cantábrico, con acantilados, playas, praderas y miradores naturales.",
+    "consejos": [
+      "Ideal por tramos cortos",
+      "Llevar protección solar",
+      "Vigilar el estado del mar",
+      "Perfecta para combinar con playa"
+    ]
+  },
+  {
+    "id": 3,
+    "provincia": "Asturias",
+    "nombre": "Bosque de Muniellos",
+    "ubicacion": "Cangas del Narcea",
+    "comoLlegar": "Acceso desde Tablizas. Requiere permiso previo obligatorio.",
+    "distancia": "20 km",
+    "desnivel": "800 m",
+    "duracion": "6-7 h",
+    "dificultad": "Media - Alta",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Uno de los robledales más importantes y mejor conservados, con lagunas y ambiente salvaje.",
+    "consejos": [
+      "Reservar con antelación",
+      "Llevar comida y agua",
+      "Calzado para zonas húmedas",
+      "Respetar las normas de conservación"
+    ]
+  },
+  {
+    "id": 4,
+    "provincia": "Asturias",
+    "nombre": "Lagos de Covadonga",
+    "ubicacion": "Parque Nacional de los Picos de Europa",
+    "comoLlegar": "Desde Cangas de Onís y Covadonga. En temporada alta puede requerir autobús lanzadera.",
+    "distancia": "6-8 km",
+    "desnivel": "200-300 m",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil - Media",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Recorrido por los lagos Enol y Ercina, con praderas, ganado y vistas de alta montaña.",
+    "consejos": [
+      "Ir temprano",
+      "Llevar abrigo incluso en verano",
+      "Ideal con niños",
+      "Cuidado con la niebla"
+    ]
+  },
+  {
+    "id": 5,
+    "provincia": "Asturias",
+    "nombre": "Mirador del Fitu",
+    "ubicacion": "Sierra del Sueve",
+    "comoLlegar": "Se accede por carretera hasta el mirador, con aparcamiento cercano.",
+    "distancia": "3-5 km",
+    "desnivel": "150-250 m",
+    "duracion": "1,5-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular / corta",
+    "categoria": "Mirador",
+    "descripcion": "Ruta corta con una panorámica de 360 grados entre el mar Cantábrico y la montaña.",
+    "consejos": [
+      "Perfecta en días despejados",
+      "Ideal para fotografía",
+      "Combinar con otra ruta cercana",
+      "Accesible para casi todos"
+    ]
+  },
+  {
+    "id": 6,
+    "provincia": "Asturias",
+    "nombre": "Cascada del Xiblu",
+    "ubicacion": "Teverga",
+    "comoLlegar": "Desde Teverga, siguiendo indicaciones hacia el inicio de la ruta.",
+    "distancia": "4 km ida y vuelta",
+    "desnivel": "200 m",
+    "duracion": "1,5-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Sendero por bosque húmedo hasta una cascada especialmente bonita tras lluvias.",
+    "consejos": [
+      "Mejor en otoño o tras lluvias",
+      "Calzado con buen agarre",
+      "Puede haber barro",
+      "Ruta corta y bonita"
+    ]
+  },
+  {
+    "id": 7,
+    "provincia": "Asturias",
+    "nombre": "Bulnes por la Canal del Texu",
+    "ubicacion": "Picos de Europa",
+    "comoLlegar": "Inicio en Poncebos, junto a la zona del funicular a Bulnes.",
+    "distancia": "4 km solo ida",
+    "desnivel": "500 m",
+    "duracion": "1,5-2 h subida",
+    "dificultad": "Media - Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Subida exigente hasta el pueblo de Bulnes por un camino tradicional de montaña.",
+    "consejos": [
+      "Llevar agua",
+      "Evitar horas de calor",
+      "Buen calzado imprescindible",
+      "Posibilidad de bajar en funicular"
+    ]
+  },
+  {
+    "id": 8,
+    "provincia": "Asturias",
+    "nombre": "Lagos de Saliencia",
+    "ubicacion": "Parque Natural de Somiedo",
+    "comoLlegar": "Acceso desde Pola de Somiedo hacia el Alto de la Farrapona.",
+    "distancia": "8 km",
+    "desnivel": "300-400 m",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Lagos",
+    "descripcion": "Ruta glaciar entre lagos, montañas y praderas en uno de los paisajes más bonitos de Somiedo.",
+    "consejos": [
+      "Llevar prismáticos",
+      "Clima cambiante",
+      "Ideal primavera y otoño",
+      "Ruta muy fotogénica"
+    ]
+  },
+  {
+    "id": 9,
+    "provincia": "Asturias",
+    "nombre": "Senda del Oso",
+    "ubicacion": "Proaza, Teverga y Quirós",
+    "comoLlegar": "Accesos principales desde Proaza o Entrago, con aparcamientos.",
+    "distancia": "Hasta 30 km por tramos",
+    "desnivel": "Muy bajo",
+    "duracion": "2-6 h según tramo",
+    "dificultad": "Fácil",
+    "tipo": "Lineal",
+    "categoria": "Vía verde",
+    "descripcion": "Antigua vía de tren reconvertida en senda cómoda, ideal para caminar o ir en bici.",
+    "consejos": [
+      "Ideal en bici",
+      "Llevar luz para túneles",
+      "Perfecta con niños",
+      "Hacer solo un tramo si se prefiere"
+    ]
+  },
+  {
+    "id": 10,
+    "provincia": "Asturias",
+    "nombre": "Playa del Silencio",
+    "ubicacion": "Cudillero",
+    "comoLlegar": "Desde Cudillero hacia Castañeras. Aparcamiento cercano y sendero de bajada.",
+    "distancia": "2-3 km ida y vuelta",
+    "desnivel": "100-150 m",
+    "duracion": "1-1,5 h",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Costa",
+    "descripcion": "Acceso a una de las playas más espectaculares de Asturias, rodeada de acantilados.",
+    "consejos": [
+      "Bajar con calzado adecuado",
+      "No hay servicios",
+      "Ideal al amanecer o atardecer",
+      "Evitar mucho oleaje"
+    ]
+  },
+  {
+    "id": 11,
+    "provincia": "Asturias",
+    "nombre": "Vega de Urriellu",
+    "ubicacion": "Picos de Europa",
+    "comoLlegar": "Desde Sotres, siguiendo la ruta hacia la base del Picu Urriellu.",
+    "distancia": "12 km ida y vuelta",
+    "desnivel": "900 m",
+    "duracion": "6-7 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Ruta exigente hasta la base del Naranjo de Bulnes, con vistas de alta montaña.",
+    "consejos": [
+      "Solo con buena forma física",
+      "Llevar comida y agua",
+      "Consultar meteorología",
+      "Calzado de montaña obligatorio"
+    ]
+  },
+  {
+    "id": 12,
+    "provincia": "Asturias",
+    "nombre": "Foz de los Callos",
+    "ubicacion": "Parque Natural de Redes",
+    "comoLlegar": "Desde Rioseco, siguiendo indicaciones hacia la ruta.",
+    "distancia": "6 km ida y vuelta",
+    "desnivel": "200-300 m",
+    "duracion": "2-3 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Desfiladero",
+    "descripcion": "Ruta poco conocida por un desfiladero boscoso, con río y ambiente muy tranquilo.",
+    "consejos": [
+      "Ideal para evitar masificación",
+      "Calzado para zonas húmedas",
+      "Bonita en primavera y otoño",
+      "Perfecta para fotografía"
+    ]
+  },
+  {
+    "id": 13,
+    "provincia": "Asturias",
+    "nombre": "Desfiladero de las Xanas",
+    "ubicacion": "Proaza",
+    "comoLlegar": "Desde Villanueva, en Santo Adriano, con aparcamiento cercano.",
+    "distancia": "8 km ida y vuelta",
+    "desnivel": "300 m",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Desfiladero",
+    "descripcion": "Conocida como el mini Cares, ofrece camino tallado en roca y vistas al valle.",
+    "consejos": [
+      "Precaución en zonas estrechas",
+      "No apta para vértigo fuerte",
+      "Llevar agua",
+      "Alternativa corta al Cares"
+    ]
+  },
+  {
+    "id": 14,
+    "provincia": "Asturias",
+    "nombre": "Bufones de Pría",
+    "ubicacion": "Llanes",
+    "comoLlegar": "Desde Llames de Pría, con zonas de aparcamiento cerca del inicio.",
+    "distancia": "4-6 km",
+    "desnivel": "Muy bajo",
+    "duracion": "1,5-2,5 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular / libre",
+    "categoria": "Costa",
+    "descripcion": "Paseo costero para ver bufones, praderas y acantilados, especialmente espectacular con oleaje.",
+    "consejos": [
+      "No acercarse a los bufones ni a los acantilados; evitar temporales",
+      "Precaución cerca de bufones",
+      "Llevar cortavientos",
+      "Ruta corta y diferente"
+    ]
+  },
+  {
+    "id": 15,
+    "provincia": "Asturias",
+    "nombre": "Peña Ubiña",
+    "ubicacion": "Parque Natural de Las Ubiñas-La Mesa",
+    "comoLlegar": "Desde Tuiza de Arriba, punto habitual de inicio.",
+    "distancia": "12-14 km ida y vuelta",
+    "desnivel": "1.000 m",
+    "duracion": "6-8 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Ascensión exigente a una de las montañas emblemáticas de la cordillera Cantábrica.",
+    "consejos": [
+      "Solo con experiencia",
+      "Consultar el tiempo",
+      "Equipamiento adecuado",
+      "Evitar condiciones adversas"
+    ]
+  },
+  {
+    "id": 16,
+    "provincia": "Asturias",
+    "nombre": "Ruta del Alba",
+    "ubicacion": "Parque Natural de Redes",
+    "comoLlegar": "Desde Soto de Agues, con aparcamiento habilitado.",
+    "distancia": "14 km ida y vuelta",
+    "desnivel": "300 m",
+    "duracion": "4-5 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Río",
+    "descripcion": "Camino junto al río Alba, con bosque, desfiladero, cascadas y pozas.",
+    "consejos": [
+      "Perfecta en primavera y otoño",
+      "Calzado cómodo",
+      "Larga sin gran dificultad",
+      "Frecuentada en fines de semana"
+    ]
+  },
+  {
+    "id": 17,
+    "provincia": "Asturias",
+    "nombre": "Camín Encantáu",
+    "ubicacion": "Llanes",
+    "comoLlegar": "Inicio en La Venta, con zonas para aparcar cerca del recorrido.",
+    "distancia": "9 km",
+    "desnivel": "200 m",
+    "duracion": "3-4 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Familiar",
+    "descripcion": "Ruta mitológica con esculturas de personajes asturianos entre bosques y pueblos.",
+    "consejos": [
+      "Ideal con niños",
+      "Ruta entretenida",
+      "Llevar cámara",
+      "Buena señalización"
+    ]
+  },
+  {
+    "id": 18,
+    "provincia": "Asturias",
+    "nombre": "Cascada del Cioyo",
+    "ubicacion": "Castropol",
+    "comoLlegar": "Desde Tol o alrededores de Castropol, siguiendo indicaciones locales.",
+    "distancia": "3-4 km ida y vuelta",
+    "desnivel": "150-200 m",
+    "duracion": "1,5-2 h",
+    "dificultad": "Fácil - Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Ruta corta por bosque húmedo hasta una cascada escondida y muy fotogénica.",
+    "consejos": [
+      "Ideal para evitar multitudes",
+      "Puede haber barro",
+      "Calzado adecuado",
+      "Bonita tras lluvias"
+    ]
+  },
+  {
+    "id": 19,
+    "provincia": "Asturias",
+    "nombre": "Braña de Mumián",
+    "ubicacion": "Parque Natural de Somiedo",
+    "comoLlegar": "Desde Valle de Lago, donde comienza el sendero hacia la braña.",
+    "distancia": "6 km ida y vuelta",
+    "desnivel": "300 m",
+    "duracion": "2-3 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cultura rural",
+    "descripcion": "Ruta hacia una braña tradicional con cabañas de teito y vistas del valle.",
+    "consejos": [
+      "Ideal para conocer cultura asturiana",
+      "Tranquila y poco masificada",
+      "Llevar cámara",
+      "Bonita en primavera"
+    ]
+  },
+  {
+    "id": 20,
+    "provincia": "Asturias",
+    "nombre": "Senda Fluvial del Nalón",
+    "ubicacion": "Langreo - Laviana",
+    "comoLlegar": "Accesos desde varias localidades como Langreo o Laviana.",
+    "distancia": "Hasta 15 km por tramos",
+    "desnivel": "Muy bajo",
+    "duracion": "2-4 h",
+    "dificultad": "Fácil",
+    "tipo": "Lineal",
+    "categoria": "Fluvial",
+    "descripcion": "Paseo cómodo junto al río Nalón, con puentes, zonas verdes y áreas recreativas.",
+    "consejos": [
+      "Ideal para principiantes",
+      "Perfecta con niños",
+      "Apta para bici",
+      "Muy cómoda"
+    ]
+  },
+  {
+    "id": 21,
+    "provincia": "Asturias",
+    "nombre": "Pico Pienzu",
+    "ubicacion": "Sierra del Sueve",
+    "comoLlegar": "Desde el Mirador del Fitu, inicio habitual de la ruta.",
+    "distancia": "10 km ida y vuelta",
+    "desnivel": "600 m",
+    "duracion": "4-5 h",
+    "dificultad": "Media - Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Subida con vistas únicas al mar Cantábrico y a los Picos de Europa.",
+    "consejos": [
+      "Ir en días despejados",
+      "Llevar cortavientos",
+      "Cuidado con el viento en la cima",
+      "Ideal para fotografía"
+    ]
+  },
+  {
+    "id": 22,
+    "provincia": "Asturias",
+    "nombre": "Pozo del Infierno",
+    "ubicacion": "San Martín de Oscos",
+    "comoLlegar": "Desde San Martín de Oscos, siguiendo indicaciones hacia la ruta.",
+    "distancia": "5 km ida y vuelta",
+    "desnivel": "200 m",
+    "duracion": "2-3 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Ruta tranquila por entorno rural y boscoso hasta una cascada con poza.",
+    "consejos": [
+      "Ideal tras lluvias",
+      "Calzado con buen agarre",
+      "Poco masificada",
+      "Muy fotogénica"
+    ]
+  },
+  {
+    "id": 23,
+    "provincia": "Asturias",
+    "nombre": "Senda Costera Navia - Tapia",
+    "ubicacion": "Navia - Tapia de Casariego",
+    "comoLlegar": "Acceso desde Navia o Tapia, con varios puntos de inicio.",
+    "distancia": "12-18 km según tramo",
+    "desnivel": "Bajo",
+    "duracion": "3-5 h",
+    "dificultad": "Fácil",
+    "tipo": "Lineal",
+    "categoria": "Costa",
+    "descripcion": "Senda costera tranquila con acantilados, calas y vistas abiertas al Cantábrico.",
+    "consejos": [
+      "Protección solar",
+      "Ideal para días tranquilos",
+      "Poco masificada",
+      "Perfecta para desconectar"
+    ]
+  },
+  {
+    "id": 24,
+    "provincia": "Asturias",
+    "nombre": "Lago del Valle",
+    "ubicacion": "Parque Natural de Somiedo",
+    "comoLlegar": "Desde Valle de Lago, donde comienza la ruta.",
+    "distancia": "8 km ida y vuelta",
+    "desnivel": "400 m",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Lago",
+    "descripcion": "Ruta representativa de Somiedo hasta un lago glaciar rodeado de montañas.",
+    "consejos": [
+      "Llevar agua",
+      "Ideal en primavera y verano",
+      "Muy fotogénica",
+      "Buen equilibrio entre esfuerzo y paisaje"
+    ]
+  },
+  {
+    "id": 25,
+    "provincia": "Asturias",
+    "nombre": "Hoces del Esva",
+    "ubicacion": "Valdés",
+    "comoLlegar": "Desde Paredes o San Pedro de Paredes, con acceso señalizado.",
+    "distancia": "10-12 km ida y vuelta",
+    "desnivel": "300-400 m",
+    "duracion": "4-5 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Desfiladero",
+    "descripcion": "Sendero junto al río Esva por un desfiladero salvaje y poco masificado.",
+    "consejos": [
+      "Calzado adecuado",
+      "Puede haber zonas húmedas",
+      "Ideal para naturaleza",
+      "Ruta poco conocida"
+    ]
+  },
+  {
+    "id": 26,
+    "provincia": "Madrid",
+    "nombre": "La Pedriza - El Yelmo",
+    "ubicacion": "Manzanares el Real",
+    "comoLlegar": "Desde Madrid por la M-607 hasta Manzanares el Real. Acceso a Canto Cochino.",
+    "distancia": "10 km ida y vuelta",
+    "desnivel": "600 m",
+    "duracion": "4-5 h",
+    "dificultad": "Media - Alta",
+    "tipo": "Circular / ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ruta entre grandes bloques de granito hasta el Yelmo, con vistas espectaculares.",
+    "consejos": [
+      "Evitar fines de semana",
+      "Llevar agua suficiente",
+      "Atención en zonas de roca",
+      "Calzado de montaña imprescindible"
+    ]
+  },
+  {
+    "id": 27,
+    "provincia": "Madrid",
+    "nombre": "Bosque de Finlandia",
+    "ubicacion": "Rascafría",
+    "comoLlegar": "Desde Madrid por la A-1 hasta Lozoya y Rascafría, con aparcamiento cercano.",
+    "distancia": "3-4 km",
+    "desnivel": "Muy bajo",
+    "duracion": "1-1,5 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Paseo sencillo junto al río, con vegetación, praderas y pequeños puentes de madera.",
+    "consejos": [
+      "Ideal con niños",
+      "Perfecta en otoño",
+      "Llevar cámara",
+      "Muy accesible"
+    ]
+  },
+  {
+    "id": 28,
+    "provincia": "Madrid",
+    "nombre": "Peñalara",
+    "ubicacion": "Parque Nacional de la Sierra de Guadarrama",
+    "comoLlegar": "Desde Madrid por la A-6 hasta el Puerto de Cotos.",
+    "distancia": "12 km ida y vuelta",
+    "desnivel": "800 m",
+    "duracion": "5-6 h",
+    "dificultad": "Media - Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Subida a la montaña más alta de Madrid, pasando por paisajes glaciares.",
+    "consejos": [
+      "Consultar meteorología",
+      "Llevar abrigo incluso en verano",
+      "Evitar nieve sin experiencia",
+      "Ruta exigente"
+    ]
+  },
+  {
+    "id": 29,
+    "provincia": "Madrid",
+    "nombre": "Cascada del Purgatorio",
+    "ubicacion": "Rascafría",
+    "comoLlegar": "Inicio en el área recreativa de Las Presillas, cerca de Rascafría.",
+    "distancia": "12 km ida y vuelta",
+    "desnivel": "250 m",
+    "duracion": "4-5 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Ruta por el valle del Lozoya siguiendo el río Aguilón hasta las cascadas.",
+    "consejos": [
+      "Ideal en primavera",
+      "Llevar agua",
+      "Puede haber zonas resbaladizas",
+      "Bastante concurrida"
+    ]
+  },
+  {
+    "id": 30,
+    "provincia": "Madrid",
+    "nombre": "Abantos y Silla de Felipe II",
+    "ubicacion": "San Lorenzo de El Escorial",
+    "comoLlegar": "Desde Madrid por la A-6 hasta El Escorial. Inicio cerca del monasterio.",
+    "distancia": "8-10 km",
+    "desnivel": "400 m",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Historia",
+    "descripcion": "Ruta que combina naturaleza e historia, con vistas al Monasterio de El Escorial.",
+    "consejos": [
+      "Ideal en otoño",
+      "Llevar agua",
+      "Buenas vistas",
+      "Ruta muy completa"
+    ]
+  },
+  {
+    "id": 31,
+    "provincia": "Madrid",
+    "nombre": "Senda Schmid",
+    "ubicacion": "Sierra de Guadarrama",
+    "comoLlegar": "Desde el Puerto de Navacerrada, punto habitual de inicio.",
+    "distancia": "8 km ida y vuelta",
+    "desnivel": "300 m",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Bosque",
+    "descripcion": "Clásica ruta por pinares de Guadarrama, cómoda y muy conocida.",
+    "consejos": [
+      "Consultar condiciones del camino y meteorología",
+      "Con nieve o hielo requiere preparación y equipo adecuados",
+      "Abrigo en invierno",
+      "Muy frecuentada"
+    ]
+  },
+  {
+    "id": 32,
+    "provincia": "Madrid",
+    "nombre": "Siete Picos",
+    "ubicacion": "Sierra de Guadarrama",
+    "comoLlegar": "Desde el Puerto de Navacerrada.",
+    "distancia": "10 km ida y vuelta",
+    "desnivel": "500 m",
+    "duracion": "4-5 h",
+    "dificultad": "Media - Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ruta de cresta con vistas panorámicas y terreno de montaña.",
+    "consejos": [
+      "Evitar días de viento",
+      "Llevar agua",
+      "Buen calzado",
+      "Ideal en primavera y otoño"
+    ]
+  },
+  {
+    "id": 33,
+    "provincia": "Madrid",
+    "nombre": "Laguna de Peñalara",
+    "ubicacion": "Parque Nacional de la Sierra de Guadarrama",
+    "comoLlegar": "Desde el Puerto de Cotos.",
+    "distancia": "6 km ida y vuelta",
+    "desnivel": "250 m",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil - Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Lago",
+    "descripcion": "Ruta accesible hasta una laguna glaciar protegida de gran belleza.",
+    "consejos": [
+      "Respetar el entorno",
+      "Ideal para principiantes",
+      "Llevar abrigo",
+      "Muy concurrida en fines de semana"
+    ]
+  },
+  {
+    "id": 34,
+    "provincia": "Madrid",
+    "nombre": "Dehesa de la Villa",
+    "ubicacion": "Madrid capital",
+    "comoLlegar": "Acceso fácil en transporte público o coche dentro de Madrid.",
+    "distancia": "4-6 km",
+    "desnivel": "Muy bajo",
+    "duracion": "1,5-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Urbana",
+    "descripcion": "Paseo natural sin salir de la ciudad, con caminos amplios y zonas arboladas.",
+    "consejos": [
+      "Ideal para principiantes",
+      "Paseos tranquilos",
+      "Apta para familias",
+      "Fácil acceso"
+    ]
+  },
+  {
+    "id": 35,
+    "provincia": "Madrid",
+    "nombre": "Chorrera de San Mamés",
+    "ubicacion": "San Mamés, Valle del Lozoya",
+    "comoLlegar": "Desde Madrid por la A-1 hasta Buitrago y San Mamés.",
+    "distancia": "4 km ida y vuelta",
+    "desnivel": "150 m",
+    "duracion": "1,5-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Ruta corta y agradecida hasta una cascada entre rocas y vegetación.",
+    "consejos": [
+      "Mejor en primavera o tras lluvias",
+      "Puede haber barro",
+      "Buen agarre",
+      "Ideal con niños"
+    ]
+  },
+  {
+    "id": 36,
+    "provincia": "Madrid",
+    "nombre": "La Maliciosa",
+    "ubicacion": "Sierra de Guadarrama",
+    "comoLlegar": "Desde el Puerto de Navacerrada, uno de los puntos habituales.",
+    "distancia": "12 km ida y vuelta",
+    "desnivel": "900 m",
+    "duracion": "5-6 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Ascensión exigente a una de las montañas más emblemáticas de Madrid.",
+    "consejos": [
+      "Solo con experiencia",
+      "Consultar meteorología",
+      "Llevar agua y comida",
+      "Evitar nieve sin equipo"
+    ]
+  },
+  {
+    "id": 37,
+    "provincia": "Madrid",
+    "nombre": "Hayedo de Montejo",
+    "ubicacion": "Montejo de la Sierra",
+    "comoLlegar": "Desde Madrid por la A-1 hasta Montejo de la Sierra. Requiere reserva.",
+    "distancia": "3-5 km",
+    "desnivel": "Bajo",
+    "duracion": "2 h",
+    "dificultad": "Fácil",
+    "tipo": "Guiada / controlada",
+    "categoria": "Bosque",
+    "descripcion": "Bosque protegido de hayas, especialmente espectacular en otoño.",
+    "consejos": [
+      "Reservar con antelación",
+      "Mejor en otoño",
+      "Ideal para todos",
+      "Respetar normas"
+    ]
+  },
+  {
+    "id": 38,
+    "provincia": "Madrid",
+    "nombre": "Cerro de San Pedro",
+    "ubicacion": "Colmenar Viejo",
+    "comoLlegar": "Desde Madrid por la M-607 hasta Colmenar Viejo.",
+    "distancia": "6 km ida y vuelta",
+    "desnivel": "300 m",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil - Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Mirador",
+    "descripcion": "Ascensión corta y progresiva con vistas amplias a la Sierra de Guadarrama.",
+    "consejos": [
+      "Ideal para principiantes",
+      "Llevar agua",
+      "Buenas vistas",
+      "Ruta corta y agradecida"
+    ]
+  },
+  {
+    "id": 39,
+    "provincia": "Madrid",
+    "nombre": "Dehesa de Navalvillar",
+    "ubicacion": "Colmenar Viejo",
+    "comoLlegar": "Acceso desde Colmenar Viejo, con varias entradas a la dehesa.",
+    "distancia": "8 km",
+    "desnivel": "Muy bajo",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Dehesa",
+    "descripcion": "Ruta tranquila por campo abierto, encinas y caminos cómodos.",
+    "consejos": [
+      "Ideal para principiantes",
+      "Recomendable en primavera",
+      "Protección solar",
+      "Paseo relajado"
+    ]
+  },
+  {
+    "id": 40,
+    "provincia": "Madrid",
+    "nombre": "Cueva Valiente",
+    "ubicacion": "Sierra de Guadarrama, entorno de Peguerinos (Ávila) y San Rafael (Segovia)",
+    "comoLlegar": "Desde el Alto del León, punto habitual de inicio.",
+    "distancia": "10 km ida y vuelta",
+    "desnivel": "500 m",
+    "duracion": "4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ruta variada y menos masificada, con bosque y buenas vistas en la cima.",
+    "consejos": [
+      "Llevar abrigo",
+      "Menos concurrida",
+      "Ideal primavera y otoño",
+      "Calzado adecuado"
+    ]
+  },
+  {
+    "id": 41,
+    "provincia": "Madrid",
+    "nombre": "Pico de la Miel",
+    "ubicacion": "La Cabrera",
+    "comoLlegar": "Desde Madrid por la A-1 hasta La Cabrera.",
+    "distancia": "6-7 km ida y vuelta",
+    "desnivel": "400 m",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Subida corta e intensa por terreno rocoso hasta una cima muy reconocible.",
+    "consejos": [
+      "Precaución en roca",
+      "No con lluvia",
+      "Buen calzado",
+      "Ruta corta e intensa"
+    ]
+  },
+  {
+    "id": 42,
+    "provincia": "Madrid",
+    "nombre": "Senda de los Molinos",
+    "ubicacion": "Navalagamella",
+    "comoLlegar": "Desde Madrid por la M-501 hasta Navalagamella.",
+    "distancia": "7 km",
+    "desnivel": "200 m",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil - Media",
+    "tipo": "Circular",
+    "categoria": "Agua / historia",
+    "descripcion": "Ruta junto a un arroyo con antiguos molinos hidráulicos y ambiente tranquilo.",
+    "consejos": [
+      "Ideal en primavera",
+      "Calzado adecuado",
+      "Poco concurrida",
+      "Muy agradable"
+    ]
+  },
+  {
+    "id": 43,
+    "provincia": "Madrid",
+    "nombre": "Cabeza de Hierro",
+    "ubicacion": "Sierra de Guadarrama",
+    "comoLlegar": "Desde el Puerto de Navacerrada.",
+    "distancia": "14 km ida y vuelta",
+    "desnivel": "800 m",
+    "duracion": "6-7 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Travesía exigente de montaña con gran desnivel y vistas de la sierra.",
+    "consejos": [
+      "Solo senderistas experimentados",
+      "Comida y agua",
+      "Consultar meteorología",
+      "Evitar nieve sin experiencia"
+    ]
+  },
+  {
+    "id": 44,
+    "provincia": "Madrid",
+    "nombre": "Embalse de San Juan",
+    "ubicacion": "San Martín de Valdeiglesias",
+    "comoLlegar": "Desde Madrid por la M-501 hasta el embalse.",
+    "distancia": "8-10 km",
+    "desnivel": "Bajo",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Agua",
+    "descripcion": "Ruta sencilla bordeando zonas del embalse, con bosque y espacios abiertos.",
+    "consejos": [
+      "Ideal primavera y verano",
+      "Protección solar",
+      "Baño solo en zonas permitidas",
+      "Muy accesible"
+    ]
+  },
+  {
+    "id": 45,
+    "provincia": "Madrid",
+    "nombre": "Pico Ocejón",
+    "ubicacion": "Valverde de los Arroyos, Sierra Norte de Guadalajara",
+    "comoLlegar": "Inicio en Valverde de los Arroyos (Guadalajara). Consulta el acceso y el itinerario en Turismo de Guadalajara antes de salir.",
+    "distancia": "10 km ida y vuelta",
+    "desnivel": "700 m",
+    "duracion": "4-5 h",
+    "dificultad": "Media - Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ascensión con salida desde un pueblo de arquitectura negra y vistas amplias.",
+    "consejos": [
+      "Llevar agua",
+      "Ideal primavera y otoño",
+      "Buen calzado",
+      "Poco masificada",
+      "Está en Guadalajara; se agrupa en Madrid y alrededores por proximidad, no por provincia."
+    ]
+  },
+  {
+    "id": 46,
+    "provincia": "Madrid",
+    "nombre": "Senda de los Oficios",
+    "ubicacion": "San Lorenzo de El Escorial",
+    "comoLlegar": "Inicio cerca del casco urbano de El Escorial.",
+    "distancia": "6 km",
+    "desnivel": "200 m",
+    "duracion": "2 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Historia",
+    "descripcion": "Ruta tranquila por caminos tradicionales con valor cultural y zonas de bosque.",
+    "consejos": [
+      "Paseo tranquilo",
+      "Muy accesible",
+      "Buena para principiantes",
+      "Llevar agua"
+    ]
+  },
+  {
+    "id": 47,
+    "provincia": "Madrid",
+    "nombre": "Pontón de la Oliva",
+    "ubicacion": "Patones",
+    "comoLlegar": "Desde Madrid por la A-1 hasta Patones, con acceso señalizado.",
+    "distancia": "7-8 km",
+    "desnivel": "250 m",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil - Media",
+    "tipo": "Circular / ida y vuelta",
+    "categoria": "Historia / naturaleza",
+    "descripcion": "Ruta alrededor de una antigua presa y entorno rocoso con vistas.",
+    "consejos": [
+      "Ideal en días frescos",
+      "Calzado cómodo",
+      "Ruta variada",
+      "Buenas vistas"
+    ]
+  },
+  {
+    "id": 48,
+    "provincia": "Madrid",
+    "nombre": "Patones de Arriba y Canal de Cabarrús",
+    "ubicacion": "Patones de Arriba",
+    "comoLlegar": "Se recomienda aparcar en Patones de Abajo y subir caminando.",
+    "distancia": "8 km",
+    "desnivel": "300 m",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Historia",
+    "descripcion": "Ruta que combina pueblo tradicional, montaña y antigua infraestructura hidráulica.",
+    "consejos": [
+      "Evitar calor",
+      "Llevar agua",
+      "Combinar con visita al pueblo",
+      "Buen calzado"
+    ]
+  },
+  {
+    "id": 49,
+    "provincia": "Madrid",
+    "nombre": "Valle de la Barranca",
+    "ubicacion": "Navacerrada",
+    "comoLlegar": "Desde Madrid por la A-6 hasta Navacerrada, acceso hacia La Barranca.",
+    "distancia": "10 km",
+    "desnivel": "400 m",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Bosque / montaña",
+    "descripcion": "Ruta agradable entre pinares y vistas a las montañas del valle.",
+    "consejos": [
+      "Ideal primavera y otoño",
+      "Llevar agua",
+      "Muy agradable",
+      "Buenas vistas"
+    ]
+  },
+  {
+    "id": 50,
+    "provincia": "Madrid",
+    "nombre": "Laguna del Campillo",
+    "ubicacion": "Rivas-Vaciamadrid",
+    "comoLlegar": "Acceso desde Rivas, con zonas para aparcar cerca del inicio.",
+    "distancia": "4-5 km",
+    "desnivel": "Muy bajo",
+    "duracion": "1,5-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Laguna",
+    "descripcion": "Ruta sencilla alrededor de una laguna en el Parque Regional del Sureste.",
+    "consejos": [
+      "Ideal para familias",
+      "Llevar prismáticos",
+      "Muy accesible",
+      "Paseo relajado"
+    ]
+  },
+  {
+    "id": 3001,
+    "provincia": "Cantabria",
+    "nombre": "Acantilados de Pechón",
+    "ubicacion": "Pechón",
+    "comoLlegar": "Desde la A-8, tomar la salida 269 o 272 en dirección Pechón y dejar el coche en la zona indicada junto al restaurante Parrilla El Fogón.",
+    "distancia": "5 km",
+    "desnivel": "105 m",
+    "duracion": "1 h 30 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Costa",
+    "descripcion": "Recorrido costero sencillo por Pechón, con acantilados, playas, caminos verdes y vistas hacia la zona del Castillo de Berón y la playa de Amió.",
+    "consejos": [
+      "Extremar la precaución en los tramos estrechos junto al acantilado.",
+      "La ruta no está señalizada; conviene llevar el recorrido preparado en el móvil."
+    ]
+  },
+  {
+    "id": 3002,
+    "provincia": "Cantabria",
+    "nombre": "Playa de Usgo - Robayera",
+    "ubicacion": "Miengo",
+    "comoLlegar": "Desde la A-67, tomar la salida 193 si se viene de Santander o la 187 si se viene desde Torrelavega, seguir por la CA-232 hacia Miengo y playa de Usgo.",
+    "distancia": "5,41 km",
+    "desnivel": "94 m",
+    "duracion": "1 h 30 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Costa",
+    "descripcion": "Ruta litoral entre la playa de Usgo y Robayera, con vistas de Costa Quebrada, la playa de Liencres y la zona de Mogro.",
+    "consejos": [
+      "En los tramos de acantilado hay que vigilar especialmente a los niños.",
+      "Aunque no está señalizada, el sendero suele estar marcado por el paso de pescadores y senderistas."
+    ]
+  },
+  {
+    "id": 3003,
+    "provincia": "Cantabria",
+    "nombre": "Santa Justa - Playa de Tagle - Punta Ballota",
+    "ubicacion": "Ubiarco, Santillana del Mar",
+    "comoLlegar": "Desde Santillana del Mar o Suances, llegar por la CA-351 y dejar el coche en el aparcamiento de la playa de Santa Justa.",
+    "distancia": "6 km",
+    "desnivel": "185 m",
+    "duracion": "1 h 44 min",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Costa",
+    "descripcion": "Recorrido costero desde Santa Justa hacia la playa de Tagle y Punta Ballota, pasando por miradores, acantilados y la Torre de San Telmo.",
+    "consejos": [
+      "Gran parte del recorrido va paralelo al acantilado; caminar con prudencia.",
+      "Evitar acercarse al borde en días de viento, lluvia o terreno húmedo."
+    ]
+  },
+  {
+    "id": 3004,
+    "provincia": "Cantabria",
+    "nombre": "Acantilados de Quejo",
+    "ubicacion": "Isla",
+    "comoLlegar": "Desde la A-8, tomar la salida 184 Beranga, seguir por la N-634 y después por la CA-147 y CA-141 hasta Isla Playa.",
+    "distancia": "7,39 km",
+    "desnivel": "240 m",
+    "duracion": "2 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Costa",
+    "descripcion": "Ruta por los acantilados de Quejo y las playas de Isla, con subidas y bajadas continuas y vistas abiertas al Cantábrico.",
+    "consejos": [
+      "Llevar calzado de senderismo o trail por los tramos exigentes junto al litoral.",
+      "No es la mejor opción para niños poco acostumbrados a caminar por desnivel."
+    ]
+  },
+  {
+    "id": 3005,
+    "provincia": "Cantabria",
+    "nombre": "Marismas de Alday",
+    "ubicacion": "Camargo",
+    "comoLlegar": "Acceso desde Camargo, en la zona de las marismas y la Casa de la Naturaleza, con posibilidad de enlazar desde el carril bici de Santander.",
+    "distancia": "4 km",
+    "desnivel": "1 m",
+    "duracion": "1 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Natural",
+    "descripcion": "Paseo llano de alto interés ambiental y ornitológico por la Marisma de Alday, con zonas de marisma salada y dulce.",
+    "consejos": [
+      "Llevar prismáticos si se quiere observar aves acuáticas sin molestarlas.",
+      "Respetar pasarelas, caminos y zonas sensibles de la marisma."
+    ]
+  },
+  {
+    "id": 3006,
+    "provincia": "Cantabria",
+    "nombre": "Marismas Blancas y Negras de Astillero",
+    "ubicacion": "Astillero",
+    "comoLlegar": "Salida desde Astillero, accediendo a la zona de la Reserva Natural Municipal de las Marismas Blancas y Negras.",
+    "distancia": "2 km",
+    "desnivel": "1 m",
+    "duracion": "34 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Natural",
+    "descripcion": "Paseo muy corto y llano por un conjunto de humedales de gran valor para aves y biodiversidad en la bahía de Santander.",
+    "consejos": [
+      "Ideal para paseo tranquilo, observación de aves y salida familiar.",
+      "Evitar ruidos y no salirse del sendero para proteger el entorno."
+    ]
+  },
+  {
+    "id": 3007,
+    "provincia": "Cantabria",
+    "nombre": "El Cable - Hotel Áliva",
+    "ubicacion": "Fuente Dé",
+    "comoLlegar": "Subir en el teleférico de Fuente Dé hasta El Cable y caminar hacia Horcadina de Covarrobres, Chalet Real y Hotel Áliva.",
+    "distancia": "3,5 km (7 km ida y vuelta)",
+    "desnivel": "168 m",
+    "duracion": "1 h (2 h ida y vuelta)",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ruta corta de alta montaña desde la estación superior del teleférico hasta el Hotel Áliva, con vistas panorámicas del macizo central de Picos de Europa.",
+    "consejos": [
+      "Consultar horarios del teleférico antes de iniciar la ruta.",
+      "Aunque sea corta, llevar abrigo y revisar la meteorología de montaña."
+    ]
+  },
+  {
+    "id": 3008,
+    "provincia": "Cantabria",
+    "nombre": "Puertos de Áliva",
+    "ubicacion": "Fuente Dé",
+    "comoLlegar": "Desde El Cable, seguir el PR-24 por Horcadina de Covarrobres, Chalet Real, Hotel Áliva y Fuente de los Asturianos hasta Fuente Dé.",
+    "distancia": "14,5 km",
+    "desnivel": "1048 m",
+    "duracion": "4 h 15 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Travesía de montaña que desciende desde El Cable hacia Fuente Dé atravesando la zona de Áliva y sus paisajes de pastos y alta montaña.",
+    "consejos": [
+      "No iniciar tarde: es una ruta larga y condicionada por el horario del teleférico.",
+      "Llevar agua, protección solar y ropa de abrigo incluso en días despejados."
+    ]
+  },
+  {
+    "id": 3009,
+    "provincia": "Cantabria",
+    "nombre": "Horcados Rojos",
+    "ubicacion": "Fuente Dé",
+    "comoLlegar": "Desde El Cable, seguir el PR-23 por Horcadina de Covarrobres y La Vueltona hasta el collado de Horcados Rojos, regresando por el mismo camino.",
+    "distancia": "11 km",
+    "desnivel": "510 m",
+    "duracion": "4 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ruta de alta montaña hasta el collado de Horcados Rojos, con vistas hacia el Naranjo de Bulnes y el entorno central de Picos de Europa.",
+    "consejos": [
+      "Evitar la ruta con niebla, hielo, nieve o tormenta.",
+      "Llevar buen calzado de montaña y no abandonar el itinerario marcado."
+    ]
+  },
+  {
+    "id": 3010,
+    "provincia": "Cantabria",
+    "nombre": "Vega de Liordes",
+    "ubicacion": "Fuente Dé",
+    "comoLlegar": "Desde Fuente Dé, seguir el PR-25 por la Majada de Pedabejo, Canal de Pedabejo, Vega de Liordes y Collado de Liordes.",
+    "distancia": "11 km",
+    "desnivel": "970 m",
+    "duracion": "5 h",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta exigente desde Fuente Dé hacia la Vega de Liordes, uno de los recorridos clásicos de montaña en el entorno de Picos de Europa.",
+    "consejos": [
+      "Solo recomendable con buena forma física y experiencia en montaña.",
+      "Revisar la previsión meteorológica y evitarla con nieve, hielo o niebla."
+    ]
+  },
+  {
+    "id": 3011,
+    "provincia": "Cantabria",
+    "nombre": "Hayedo de las Ilces",
+    "ubicacion": "Espinama",
+    "comoLlegar": "Salida desde Espinama, pasando por Pido, El Matu y Las Ilces para regresar a Espinama.",
+    "distancia": "9 km",
+    "desnivel": "200 m",
+    "duracion": "4 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Ruta circular por pueblos y zona boscosa del entorno de Espinama, con ambiente de valle y hayedo.",
+    "consejos": [
+      "Muy recomendable en otoño por el color del bosque.",
+      "Llevar calzado cómodo: puede haber barro en zonas húmedas."
+    ]
+  },
+  {
+    "id": 3012,
+    "provincia": "Cantabria",
+    "nombre": "Brez - Canal de las Arredondas",
+    "ubicacion": "Brez, Camaleño",
+    "comoLlegar": "Salida desde Brez, siguiendo el PR-27 por La Mayor y Castro de las Cerras para regresar a Brez.",
+    "distancia": "5,4 km",
+    "desnivel": "220 m",
+    "duracion": "2 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta corta de montaña desde Brez, con recorrido por el entorno de La Mayor y Castro de las Cerras.",
+    "consejos": [
+      "Buena opción para una salida corta en Liébana si la meteorología acompaña.",
+      "Usar botas o zapatillas de montaña por posibles tramos pedregosos."
+    ]
+  },
+  {
+    "id": 3013,
+    "provincia": "Cantabria",
+    "nombre": "Peña Oviedo",
+    "ubicacion": "Áliva - Mogrovejo",
+    "comoLlegar": "Desde la Fuente de los Asturianos, en la zona de Áliva, seguir el PR-22 hacia Peña Oviedo y Mogrovejo.",
+    "distancia": "10 km",
+    "desnivel": "700 m",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Mirador",
+    "descripcion": "Ruta panorámica entre Áliva y Mogrovejo pasando por Peña Oviedo, con vistas hacia el entorno de Liébana y Picos de Europa.",
+    "consejos": [
+      "Organizar bien el transporte, ya que no termina en el mismo punto de salida.",
+      "Consultar condiciones de montaña y evitar días de mala visibilidad."
+    ]
+  },
+  {
+    "id": 3014,
+    "provincia": "Cantabria",
+    "nombre": "Camino de Peña Lavalle",
+    "ubicacion": "Arredondo",
+    "comoLlegar": "Salida y llegada en el Centro Ictiológico de Arredondo.",
+    "distancia": "14 km",
+    "desnivel": "1085 m",
+    "duracion": "5 h 30 min",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta de media montaña por el entorno de Arredondo y Peña Lavalle, con terreno calizo, pastizales, cabañas y vistas del valle del Asón.",
+    "consejos": [
+      "Evitar con niebla: hay zonas de pastizal y senda difusa donde es fácil desorientarse.",
+      "Precaución en terreno kárstico con simas y agujeros."
+    ]
+  },
+  {
+    "id": 3015,
+    "provincia": "Cantabria",
+    "nombre": "Camino de la Piluca",
+    "ubicacion": "Matienzo, Ruesga",
+    "comoLlegar": "Salida y llegada en Matienzo, barrio La Cubilla.",
+    "distancia": "14 km",
+    "desnivel": "620 m",
+    "duracion": "5 h",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta de media montaña desde Matienzo por pistas, senderos, zonas de pastizal, lapiaz y tramos con marcas que requieren atención.",
+    "consejos": [
+      "Llevar track o mapa: algunos tramos pueden ser poco evidentes.",
+      "Evitar la ruta con niebla, calor fuerte o nieve por el terreno kárstico."
+    ]
+  },
+  {
+    "id": 3016,
+    "provincia": "Cantabria",
+    "nombre": "Camino del Val del Asón",
+    "ubicacion": "Arredondo - Soba",
+    "comoLlegar": "Salida desde el Centro Ictiológico de Arredondo y llegada a la Cascada de Cailagua, nacimiento del río Asón.",
+    "distancia": "10 km (solo ida)",
+    "desnivel": "565 m subida / 235 m bajada",
+    "duracion": "4 h (solo ida)",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Cascada",
+    "descripcion": "Itinerario lineal hacia la cascada de Cailagua, nacimiento del río Asón, combinando ribera, prados, castañares, robledal y zona de montaña.",
+    "consejos": [
+      "Planificar el regreso, ya que la ficha oficial lo marca como solo ida.",
+      "Con caudales altos, evitar cruzar cursos de agua fuertes."
+    ]
+  },
+  {
+    "id": 3017,
+    "provincia": "Cantabria",
+    "nombre": "Camino de Fresnedo - Herada",
+    "ubicacion": "Soba",
+    "comoLlegar": "Salida y llegada en Casatablas, en el municipio de Soba.",
+    "distancia": "18 km",
+    "desnivel": "775 m",
+    "duracion": "5 h 30 min",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta larga de media montaña por Casatablas, Fresnedo y Herada, con pistas, carretera, encinares y vistas amplias del valle.",
+    "consejos": [
+      "Hay tramos de carretera y pista asfaltada: caminar con atención al tráfico.",
+      "Llevar agua suficiente, especialmente en días de calor."
+    ]
+  },
+  {
+    "id": 3018,
+    "provincia": "Cantabria",
+    "nombre": "Sendero Vuelta al Moro",
+    "ubicacion": "Ramales de la Victoria",
+    "comoLlegar": "Salida y llegada en Fundación Orense, en Ramales de la Victoria.",
+    "distancia": "9,4 km",
+    "desnivel": "490 m",
+    "duracion": "3 h 45 min",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta por el entorno de Ramales, con subida por terreno calizo, encinares, valle del Silencio y vistas hacia la Peña del Moro.",
+    "consejos": [
+      "Atención al terreno kárstico y a las zonas abiertas con senda poco clara.",
+      "Evitarla con niebla o calor fuerte."
+    ]
+  },
+  {
+    "id": 3019,
+    "provincia": "Cantabria",
+    "nombre": "Vuelta al Picón del Carlista",
+    "ubicacion": "Rasines",
+    "comoLlegar": "Salida y llegada en el barrio El Cerro, Rasines.",
+    "distancia": "14,5 km",
+    "desnivel": "780 m",
+    "duracion": "5 h 30 min",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Recorrido exigente alrededor del macizo del Picón del Carlista, con tramos rocosos, encinar, terreno kárstico y zonas de senda difusa.",
+    "consejos": [
+      "Muy importante seguir marcas y balizas para no salirse del camino.",
+      "No hacer con niebla, calor intenso o poca experiencia en montaña."
+    ]
+  },
+  {
+    "id": 3020,
+    "provincia": "Cantabria",
+    "nombre": "Sendero Gandarillas - Los Hoyos",
+    "ubicacion": "Valle de Villaverde",
+    "comoLlegar": "Salida y llegada en Villanueva, junto a la CA-152.",
+    "distancia": "7,5 km",
+    "desnivel": "365 m",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Sendero por pistas, bosque, plantaciones y cortafuegos en el Valle de Villaverde, con vistas hacia Jorrios y Armañón.",
+    "consejos": [
+      "Hay tramos de carretera y pista asfaltada: precaución con vehículos.",
+      "Llevar agua; la guía advierte ausencia de fuentes en el recorrido."
+    ]
+  },
+  {
+    "id": 3021,
+    "provincia": "Cantabria",
+    "nombre": "Camino de las Nieves",
+    "ubicacion": "Ampuero",
+    "comoLlegar": "Salida y llegada en la ermita de San Pedruco, barrio de Rascón.",
+    "distancia": "13 km",
+    "desnivel": "515 m",
+    "duracion": "4 h 45 min",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta circular desde la ermita de San Pedruco hacia el entorno de las Nieves, con pistas, zonas de pinar, menhir y vistas de montaña.",
+    "consejos": [
+      "Precaución en los tramos de carretera o pista asfaltada.",
+      "Llevar agua, aunque la guía menciona fuente en la subida a la ermita."
+    ]
+  },
+  {
+    "id": 3022,
+    "provincia": "Cantabria",
+    "nombre": "El Bosque del Remendón",
+    "ubicacion": "Guriezo",
+    "comoLlegar": "Salida y llegada en Angostina, con aparcamiento posible en la plaza del barrio o junto al edificio municipal cercano.",
+    "distancia": "12,5 km",
+    "desnivel": "725 m",
+    "duracion": "4 h",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Ruta por el bosque del Remendón, arroyos, canalización de Mongarrido y pistas de montaña en el municipio de Guriezo.",
+    "consejos": [
+      "Precaución en zonas húmedas, cruces de arroyos y posibles desprendimientos.",
+      "En los tramos de pista hay poca sombra: evitar horas de calor."
+    ]
+  },
+  {
+    "id": 3023,
+    "provincia": "Cantabria",
+    "nombre": "Sendero del Valle de Manás",
+    "ubicacion": "Liendo - Guriezo",
+    "comoLlegar": "Salida desde el barrio de Iseca Nueva, en Liendo, y llegada a Lugarejos, en Guriezo.",
+    "distancia": "5,5 km (solo ida)",
+    "desnivel": "225 m subida / 50 m bajada",
+    "duracion": "2 h 15 min (solo ida)",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Natural",
+    "descripcion": "Sendero lineal por el valle de Manás, con prados, muros de piedra, pequeñas vaguadas y paso hacia el municipio de Guriezo.",
+    "consejos": [
+      "Planificar la vuelta, ya que la ficha oficial lo presenta como solo ida.",
+      "Precaución en tramos de carretera o pista asfaltada."
+    ]
+  },
+  {
+    "id": 3024,
+    "provincia": "Cantabria",
+    "nombre": "Camino del Yelso de Hayas",
+    "ubicacion": "Limpias",
+    "comoLlegar": "Salida y llegada en el barrio Rucoba, junto a la iglesia de San Pedro.",
+    "distancia": "12,7 km",
+    "desnivel": "605 m",
+    "duracion": "4 h 30 min",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta circular desde Rucoba hacia el Yelso de Hayas, con pistas, eucaliptales, carretera y subida final hacia la zona elevada.",
+    "consejos": [
+      "Atención en los cruces de pistas y caminos para no perder el itinerario.",
+      "Evitar días de calor fuerte por los tramos expuestos."
+    ]
+  },
+  {
+    "id": 3025,
+    "provincia": "Cantabria",
+    "nombre": "Itinerario de la Fuente del Francés",
+    "ubicacion": "Hoznayo, Entrambasaguas",
+    "comoLlegar": "Salida y llegada en Hoznayo, barrio de La Sierra, donde hay zona de aparcamiento.",
+    "distancia": "4,5 km",
+    "desnivel": "50 m",
+    "duracion": "1 h 30 min",
+    "dificultad": "Fácil",
+    "tipo": "Lineal",
+    "categoria": "Río",
+    "descripcion": "Itinerario familiar desde Hoznayo hacia la Fuente del Francés, con camino por carretera local, un salto de agua y regreso por el mismo trazado.",
+    "consejos": [
+      "Precaución con los vehículos, ya que hay tramo de carretera.",
+      "Ruta sencilla y familiar, pero conviene valorar la resistencia de los niños."
+    ]
+  },
+  {
+    "id": 4001,
+    "provincia": "País Vasco",
+    "nombre": "Senda Garrastatxu",
+    "ubicacion": "Parque Natural de Gorbeia, Baranbio",
+    "comoLlegar": "Inicio en Baranbio, en Araba/Álava, siguiendo la ruta señalizada hacia Katxabaso y Burbona.",
+    "distancia": "5,4 km",
+    "desnivel": "452 m",
+    "duracion": "1 h 40 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta lineal del Parque Natural de Gorbeia entre Baranbio, Katxabaso y Burbona, con subida clara y ambiente de montaña vasca.",
+    "consejos": [
+      "Consulta la meteorología del parque antes de salir.",
+      "Lleva calzado de montaña.",
+      "Al ser lineal, organiza la vuelta."
+    ]
+  },
+  {
+    "id": 4002,
+    "provincia": "País Vasco",
+    "nombre": "Senda Altube",
+    "ubicacion": "Parque Natural de Gorbeia, Alto de Altube",
+    "comoLlegar": "Inicio en el Alto de Altube, Araba/Álava.",
+    "distancia": "7,2 km",
+    "desnivel": "482 m",
+    "duracion": "1 h 55 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Bosque",
+    "descripcion": "Senda lineal por el entorno de Altube y Burbona, dentro del Parque Natural de Gorbeia.",
+    "consejos": [
+      "Ruta de bosque y montaña con desnivel moderado.",
+      "Revisa el regreso al ser lineal.",
+      "Puede haber barro en época húmeda."
+    ]
+  },
+  {
+    "id": 4003,
+    "provincia": "País Vasco",
+    "nombre": "Senda Baias - Gorbeia",
+    "ubicacion": "Parketxe de Sarria, Parque Natural de Gorbeia",
+    "comoLlegar": "Inicio en el Parketxe de Sarria, Araba/Álava.",
+    "distancia": "10,5 km",
+    "desnivel": "251 m",
+    "duracion": "3 h 15 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Río",
+    "descripcion": "Ruta lineal desde el Parketxe de Sarria hacia Gorbeia siguiendo el entorno del río Baias.",
+    "consejos": [
+      "Buena ruta para disfrutar de río y bosque.",
+      "Lleva agua y algo de comida.",
+      "Consulta el Parketxe para el estado de la ruta."
+    ]
+  },
+  {
+    "id": 4004,
+    "provincia": "País Vasco",
+    "nombre": "Senda Zárate",
+    "ubicacion": "Zárate, Parque Natural de Gorbeia",
+    "comoLlegar": "Inicio en el aparcamiento situado aproximadamente a 1 km de Zárate, Araba/Álava.",
+    "distancia": "5 km",
+    "desnivel": "405 m",
+    "duracion": "1 h 25 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Senda lineal desde Zárate hacia Pagazuri, dentro del entorno del Parque Natural de Gorbeia.",
+    "consejos": [
+      "Ruta corta pero con desnivel.",
+      "Evita días de niebla.",
+      "Lleva calzado con buen agarre."
+    ]
+  },
+  {
+    "id": 4005,
+    "provincia": "País Vasco",
+    "nombre": "Senda Murua",
+    "ubicacion": "Murua, Parque Natural de Gorbeia",
+    "comoLlegar": "Inicio en el parking de Parratxi, Murua, Araba/Álava.",
+    "distancia": "8,1 km",
+    "desnivel": "No indicado",
+    "duracion": "2 h 40 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta desde Murua hacia el entorno de Gorbeia, con paisaje de montaña y acceso desde Parratxi.",
+    "consejos": [
+      "Consulta el track oficial antes de salir.",
+      "Lleva ropa de abrigo en días frescos.",
+      "Al ser lineal, prepara la vuelta."
+    ]
+  },
+  {
+    "id": 4006,
+    "provincia": "País Vasco",
+    "nombre": "Senda Zubialde - Egillolarra",
+    "ubicacion": "Murua, Parque Natural de Gorbeia",
+    "comoLlegar": "Inicio en el parking de Parratxi, Murua, Araba/Álava.",
+    "distancia": "8,5 km",
+    "desnivel": "725 m",
+    "duracion": "3 h 15 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta lineal por Zubialde y Egillolarra, exigente por su desnivel y entorno de montaña.",
+    "consejos": [
+      "Ruta con bastante desnivel.",
+      "No recomendable con niebla o mal tiempo.",
+      "Lleva agua y equipo adecuado."
+    ]
+  },
+  {
+    "id": 4007,
+    "provincia": "País Vasco",
+    "nombre": "Senda Etxaguen",
+    "ubicacion": "Etxaguen, Parque Natural de Gorbeia",
+    "comoLlegar": "Inicio en Etxaguen, Araba/Álava.",
+    "distancia": "4 km",
+    "desnivel": "372 m",
+    "duracion": "1 h 15 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Senda corta desde Etxaguen hacia Oketa, con subida marcada y vistas del entorno.",
+    "consejos": [
+      "Corta pero con desnivel notable.",
+      "Lleva calzado de montaña.",
+      "Evita días de lluvia intensa."
+    ]
+  },
+  {
+    "id": 4008,
+    "provincia": "País Vasco",
+    "nombre": "Subida a la Cruz de Gorbeia desde Saldropo",
+    "ubicacion": "Saldropo, Zeanuri",
+    "comoLlegar": "Inicio en el aparcamiento de Saldropo, Zeanuri, Bizkaia.",
+    "distancia": "6,6 km",
+    "desnivel": "909 m",
+    "duracion": "3 h 10 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ascensión a la Cruz de Gorbeia desde Saldropo, ruta corta pero dura por su fuerte desnivel.",
+    "consejos": [
+      "Solo recomendable con buena forma física.",
+      "Consulta el tiempo antes de subir.",
+      "La cima puede tener viento y niebla."
+    ]
+  },
+  {
+    "id": 4009,
+    "provincia": "País Vasco",
+    "nombre": "Subida a la Cruz de Gorbeia desde San Justo",
+    "ubicacion": "Área recreativa de Egileor-San Justo, Zeanuri",
+    "comoLlegar": "Inicio en el área recreativa de Egileor-San Justo, Zeanuri, Bizkaia.",
+    "distancia": "8 km",
+    "desnivel": "1127 m",
+    "duracion": "3 h 50 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ascensión exigente a la Cruz de Gorbeia desde San Justo, con gran desnivel acumulado.",
+    "consejos": [
+      "Ruta dura, prepara bien el horario.",
+      "No subir con niebla si no conoces la zona.",
+      "Lleva abrigo, agua y comida."
+    ]
+  },
+  {
+    "id": 4010,
+    "provincia": "País Vasco",
+    "nombre": "Subida a la Cruz de Gorbeia desde Areatza",
+    "ubicacion": "Areatza",
+    "comoLlegar": "Inicio en Areatza, Bizkaia.",
+    "distancia": "13,2 km",
+    "desnivel": "1393 m",
+    "duracion": "5 h 15 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ascensión larga y exigente desde Areatza hasta la Cruz de Gorbeia.",
+    "consejos": [
+      "Ruta muy exigente por desnivel.",
+      "Sal temprano y con previsión estable.",
+      "Lleva equipo de montaña."
+    ]
+  },
+  {
+    "id": 4011,
+    "provincia": "País Vasco",
+    "nombre": "Subida a la Cruz de Gorbeia desde Bikoxgana",
+    "ubicacion": "Área recreativa de Bikoxgana, Orozko",
+    "comoLlegar": "Inicio en el área recreativa de Bikoxgana, Orozko, Bizkaia.",
+    "distancia": "13 km",
+    "desnivel": "1163 m",
+    "duracion": "5 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta de subida a Gorbeia desde Bikoxgana, con desnivel fuerte y ambiente de montaña.",
+    "consejos": [
+      "Comprueba el tiempo y la visibilidad.",
+      "Lleva agua y alimento suficiente.",
+      "Al ser lineal, organiza bien la vuelta."
+    ]
+  },
+  {
+    "id": 4012,
+    "provincia": "País Vasco",
+    "nombre": "Subida a la Cruz de Gorbeia desde Usabel",
+    "ubicacion": "Barrio Usabel, Orozko",
+    "comoLlegar": "Inicio en el barrio Usabel, Orozko, Bizkaia.",
+    "distancia": "11,5 km",
+    "desnivel": "1416 m",
+    "duracion": "5 h 20 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ascensión muy exigente desde Usabel hasta Gorbeia, con gran desnivel acumulado.",
+    "consejos": [
+      "Ruta de alta exigencia física.",
+      "Evita mal tiempo, niebla y nieve sin equipo.",
+      "Lleva ropa de abrigo y batería suficiente."
+    ]
+  },
+  {
+    "id": 4013,
+    "provincia": "País Vasco",
+    "nombre": "Subida a la Cruz de Gorbeia desde Mantzarraga",
+    "ubicacion": "Aparcamiento de Mantzarraga, Orozko",
+    "comoLlegar": "Inicio en el aparcamiento de Mantzarraga, Orozko, Bizkaia.",
+    "distancia": "16,8 km",
+    "desnivel": "1415 m",
+    "duracion": "6 h 25 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Una de las subidas más largas y exigentes a Gorbeia, desde Mantzarraga.",
+    "consejos": [
+      "Ruta larga y dura: empieza temprano.",
+      "Lleva comida, agua y ropa de abrigo.",
+      "No recomendable con mala previsión."
+    ]
+  },
+  {
+    "id": 4014,
+    "provincia": "País Vasco",
+    "nombre": "Ruta interactiva por el casco de Orozko",
+    "ubicacion": "Orozko",
+    "comoLlegar": "Inicio en el casco urbano de Orozko, Bizkaia.",
+    "distancia": "7,2 km",
+    "desnivel": "Bajo",
+    "duracion": "No indicado",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Histórica",
+    "descripcion": "Paseo por el casco de Orozko y su entorno, pensado como recorrido cultural y familiar.",
+    "consejos": [
+      "Buena opción para día tranquilo.",
+      "Ideal para combinar con visita al pueblo.",
+      "Lleva calzado cómodo."
+    ]
+  },
+  {
+    "id": 4015,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Oyón-Oion - Laguardia",
+    "ubicacion": "Rioja Alavesa",
+    "comoLlegar": "Inicio en Oyón-Oion y final en Laguardia, siguiendo la etapa 1 del GR 38.",
+    "distancia": "17,5 km",
+    "desnivel": "340 m",
+    "duracion": "4 h 30 min",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Histórica",
+    "descripcion": "Primera etapa de la Ruta del Vino y del Pescado por tierras de Rioja Alavesa, entre viñedos, lagunas y vistas a la Sierra de Cantabria-Toloño.",
+    "consejos": [
+      "Al ser lineal, organiza transporte de regreso.",
+      "Lleva agua, especialmente en días calurosos.",
+      "Respeta viñedos y caminos rurales."
+    ]
+  },
+  {
+    "id": 4016,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Laguardia - Albaina",
+    "ubicacion": "Rioja Alavesa / Montaña Alavesa",
+    "comoLlegar": "Inicio en Laguardia y final en Albaina, siguiendo la etapa 2 del GR 38.",
+    "distancia": "22,7 km",
+    "desnivel": "850 m",
+    "duracion": "7 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Etapa larga que supera la Sierra de Cantabria-Toloño y cambia de paisaje desde viñedos a bosques y montaña.",
+    "consejos": [
+      "Ruta larga y con desnivel importante.",
+      "Sal temprano y lleva comida.",
+      "Atención a cruces con otros senderos."
+    ]
+  },
+  {
+    "id": 4017,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Albaina - Estíbaliz",
+    "ubicacion": "Treviño / Llanada Alavesa",
+    "comoLlegar": "Inicio en Albaina y final en Estíbaliz, siguiendo la etapa 3 del GR 38.",
+    "distancia": "23,2 km",
+    "desnivel": "450 m",
+    "duracion": "6 h 45 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Histórica",
+    "descripcion": "Etapa del GR 38 que conecta Albaina con Estíbaliz atravesando paisajes rurales e históricos.",
+    "consejos": [
+      "Ruta larga: calcula bien horas de luz.",
+      "Presta atención a bifurcaciones con otros GR.",
+      "Lleva agua y comida suficiente."
+    ]
+  },
+  {
+    "id": 4018,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Estíbaliz - Otxandio",
+    "ubicacion": "Araba/Álava - Bizkaia",
+    "comoLlegar": "Inicio en el santuario de Estíbaliz y final en Otxandio.",
+    "distancia": "37 km",
+    "desnivel": "610 m",
+    "duracion": "10 h 30 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Una de las etapas más duras del GR 38, atravesando bosques, llanada alavesa y el entorno de Ullibarri-Gamboa antes de llegar a Otxandio.",
+    "consejos": [
+      "Muy larga: recomendable dividir o prepararla muy bien.",
+      "Lleva comida, agua y batería externa.",
+      "No hacer con mal tiempo o poca luz."
+    ]
+  },
+  {
+    "id": 4019,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Otxandio - Durango",
+    "ubicacion": "Otxandio / Durango",
+    "comoLlegar": "Inicio en Otxandio y final en Durango, siguiendo la etapa 5 del GR 38.",
+    "distancia": "22,3 km",
+    "desnivel": "No indicado",
+    "duracion": "No indicado",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Bosque",
+    "descripcion": "Etapa del GR 38 entre Otxandio y Durango, pasando por el entorno de Urkiola y paisajes de hayedo, pinar y montaña.",
+    "consejos": [
+      "Ruta lineal larga: organiza regreso.",
+      "Atención a cruces con otros senderos GR.",
+      "Lleva agua y abrigo ligero."
+    ]
+  },
+  {
+    "id": 4020,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Durango - Gernika-Lumo",
+    "ubicacion": "Durango / Gernika-Lumo",
+    "comoLlegar": "Inicio en Durango y final en Gernika-Lumo, siguiendo la etapa 6a del GR 38.",
+    "distancia": "29,7 km",
+    "desnivel": "No indicado",
+    "duracion": "No indicado",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Etapa larga entre valles, montes y caseríos, camino hacia la Reserva de la Biosfera de Urdaibai.",
+    "consejos": [
+      "Ruta larga y exigente.",
+      "Sal temprano y lleva comida.",
+      "Consulta bien el track antes de salir."
+    ]
+  },
+  {
+    "id": 4021,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Gernika-Lumo - Bermeo",
+    "ubicacion": "Urdaibai",
+    "comoLlegar": "Inicio en Gernika-Lumo y final en Bermeo, siguiendo la etapa 7a del GR 38.",
+    "distancia": "19,1 km",
+    "desnivel": "700 m",
+    "duracion": "6 h 15 min",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Costa",
+    "descripcion": "Etapa histórica del GR 38 por Urdaibai, siguiendo el viejo camino hacia Bermeo con vistas hacia el estuario.",
+    "consejos": [
+      "Al ser lineal, organiza transporte.",
+      "Ruta con desnivel acumulado importante.",
+      "Evita días de lluvia fuerte o niebla."
+    ]
+  },
+  {
+    "id": 4022,
+    "provincia": "País Vasco",
+    "nombre": "Ruta de los Dólmenes PR-Gi 94",
+    "ubicacion": "Cordal Karakate - Iturriberri",
+    "comoLlegar": "Accesos desde los municipios del entorno de Karakate e Iturriberri, en Gipuzkoa.",
+    "distancia": "20 km total / 11 km cordal principal",
+    "desnivel": "Reducido en el cordal principal",
+    "duracion": "No indicado",
+    "dificultad": "Fácil",
+    "tipo": "Lineal por tramos",
+    "categoria": "Histórica",
+    "descripcion": "Ruta con monumentos prehistóricos, dólmenes, túmulos y menhir en el cordal Karakate-Iturriberri.",
+    "consejos": [
+      "Puede hacerse por tramos.",
+      "Respeta los elementos arqueológicos.",
+      "Ideal para combinar historia y naturaleza."
+    ]
+  },
+  {
+    "id": 4023,
+    "provincia": "País Vasco",
+    "nombre": "Geoparque de la Costa Vasca - Ruta del Flysch",
+    "ubicacion": "Mutriku, Deba y Zumaia",
+    "comoLlegar": "Accesos desde Mutriku, Deba o Zumaia, dentro del Geoparque de la Costa Vasca.",
+    "distancia": "13 km de acantilados del Geoparque",
+    "desnivel": "No indicado",
+    "duracion": "No indicado",
+    "dificultad": "Media",
+    "tipo": "Lineal por tramos",
+    "categoria": "Costa",
+    "descripcion": "Recorrido por los acantilados del Flysch, una formación geológica excepcional con millones de años de historia visible en la roca.",
+    "consejos": [
+      "Consulta mareas y meteorología.",
+      "No bajes a zonas expuestas con mala mar.",
+      "Usa calzado con buen agarre."
+    ]
+  },
+  {
+    "id": 4024,
+    "provincia": "País Vasco",
+    "nombre": "Anillo Verde de Vitoria-Gasteiz",
+    "ubicacion": "Vitoria-Gasteiz",
+    "comoLlegar": "Ruta circular que rodea Vitoria-Gasteiz enlazando parques periurbanos.",
+    "distancia": "30,8 km",
+    "desnivel": "Bajo",
+    "duracion": "No indicado",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Urbana",
+    "descripcion": "Gran recorrido circular por el Anillo Verde de Vitoria-Gasteiz, enlazando espacios naturales y parques alrededor de la ciudad.",
+    "consejos": [
+      "Puede hacerse por tramos cortos.",
+      "Muy buena opción familiar si se elige un tramo sencillo.",
+      "Lleva agua y protección solar en verano."
+    ]
+  },
+  {
+    "id": 4025,
+    "provincia": "País Vasco",
+    "nombre": "GR 38 Ziortza - Lekeitio",
+    "ubicacion": "Lea-Artibai",
+    "comoLlegar": "Inicio en Ziortza y final en Lekeitio, siguiendo la variante GR 38.3.",
+    "distancia": "24,5 km",
+    "desnivel": "No indicado",
+    "duracion": "No indicado",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Costa",
+    "descripcion": "Variante del GR 38 hacia el puerto de Lekeitio, atravesando el entorno de Lea-Artibai y bajando hacia la costa.",
+    "consejos": [
+      "Ruta larga, prepara transporte de vuelta.",
+      "Lleva agua y comida suficiente.",
+      "Atención a cruces y variantes del GR 38."
+    ]
+  },
+  {
+    "id": 5001,
+    "provincia": "Galicia",
+    "nombre": "PR-G 170 Ruta da Pedra e da Auga",
+    "ubicacion": "Meis / Ribadumia, Pontevedra",
+    "comoLlegar": "Inicio en A Armenteira, Meis, con acceso desde la AG-41. Final en la rotonda VG-4.2, Ribadumia.",
+    "distancia": "6,5 km",
+    "desnivel": "Moderado en el primer tramo",
+    "duracion": "2 h 15 min",
+    "dificultad": "Fácil",
+    "tipo": "Lineal",
+    "categoria": "Río",
+    "descripcion": "Sendero junto al río Armenteira con más de 30 molinos, zonas de bosque y tramo final cómodo junto al agua.",
+    "consejos": [
+      "Ideal para días nublados o suaves.",
+      "Puede haber pasos húmedos o resbaladizos.",
+      "Al ser lineal, organiza la vuelta."
+    ]
+  },
+  {
+    "id": 5002,
+    "provincia": "Galicia",
+    "nombre": "PR-G 162 Ruta da Ribeira Sacra do Miño",
+    "ubicacion": "O Saviñao / Pantón, Lugo",
+    "comoLlegar": "Ruta lineal desde Santo Estevo de Ribas de Miño, en O Saviñao, hasta Cima de Atán, en Pantón.",
+    "distancia": "37 km",
+    "desnivel": "Continuos desniveles",
+    "duracion": "12 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Histórica",
+    "descripcion": "Sendero exigente por la Ribeira Sacra del Miño, entre viñedos, aldeas, románico y paisajes fluviales.",
+    "consejos": [
+      "Es recomendable dividirla en dos o más etapas.",
+      "Ruta muy larga: lleva comida, agua y planificación.",
+      "Consulta transporte y alojamiento antes de salir."
+    ]
+  },
+  {
+    "id": 5003,
+    "provincia": "Galicia",
+    "nombre": "Camiño dos Encomendeiros",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta dentro del Parque Natural Fragas do Eume, con acceso por los itinerarios señalizados del parque.",
+    "distancia": "5,5 km",
+    "desnivel": "Bajo",
+    "duracion": "2 h",
+    "dificultad": "Fácil",
+    "tipo": "Lineal",
+    "categoria": "Bosque",
+    "descripcion": "Ruta por las Fragas do Eume que permite conocer puentes colgantes y el entorno de Caaveiro.",
+    "consejos": [
+      "Respeta las normas del parque natural.",
+      "En temporada alta puede haber restricciones de acceso.",
+      "Calzado cómodo para bosque húmedo."
+    ]
+  },
+  {
+    "id": 5004,
+    "provincia": "Galicia",
+    "nombre": "Camiño da Ventureira",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta circular señalizada dentro del Parque Natural Fragas do Eume.",
+    "distancia": "6 km",
+    "desnivel": "Bajo",
+    "duracion": "1 h 45 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Ruta sencilla por el entorno boscoso del Eume, ideal para disfrutar del bosque atlántico.",
+    "consejos": [
+      "Puede haber humedad y barro.",
+      "Respeta flora y fauna.",
+      "Consulta el estado de accesos del parque."
+    ]
+  },
+  {
+    "id": 5005,
+    "provincia": "Galicia",
+    "nombre": "Camiño Cumios de Sanguiñedo",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta lineal señalizada en la red de senderos del Parque Natural Fragas do Eume.",
+    "distancia": "8,5 km",
+    "desnivel": "Bajo",
+    "duracion": "1 h",
+    "dificultad": "Fácil",
+    "tipo": "Lineal",
+    "categoria": "Mirador",
+    "descripcion": "Ruta lineal de la red del Eume, orientada a disfrutar de zonas altas y panorámicas del parque.",
+    "consejos": [
+      "Al ser lineal, organiza la vuelta.",
+      "Revisa señalización antes de empezar.",
+      "Lleva agua y algo de abrigo."
+    ]
+  },
+  {
+    "id": 5006,
+    "provincia": "Galicia",
+    "nombre": "Camiño dos Cerqueiros",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta circular dentro del Parque Natural Fragas do Eume.",
+    "distancia": "8,5 km",
+    "desnivel": "Bajo",
+    "duracion": "3 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Mirador",
+    "descripcion": "Ruta circular que permite disfrutar de una de las mejores panorámicas del parque desde el mirador de A Carboeira.",
+    "consejos": [
+      "Lleva cámara o prismáticos.",
+      "No salgas del sendero señalizado.",
+      "Precaución en zonas húmedas."
+    ]
+  },
+  {
+    "id": 5007,
+    "provincia": "Galicia",
+    "nombre": "Camiño de Pena Fesa",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta circular señalizada dentro del Parque Natural Fragas do Eume.",
+    "distancia": "10 km",
+    "desnivel": "Bajo",
+    "duracion": "1 h 15 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Itinerario circular por la red de senderos del Eume, entre bosque atlántico y caminos del parque.",
+    "consejos": [
+      "Consulta el panel de rutas del parque.",
+      "Lleva agua.",
+      "Mejor evitar días de temporal."
+    ]
+  },
+  {
+    "id": 5008,
+    "provincia": "Galicia",
+    "nombre": "Camiño da Pasada Vella",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta circular de la red de senderos del Parque Natural Fragas do Eume.",
+    "distancia": "4,5 km",
+    "desnivel": "Bajo",
+    "duracion": "1 h 30 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Bosque",
+    "descripcion": "Ruta corta y sencilla dentro de Fragas do Eume, adecuada para paseo tranquilo por bosque.",
+    "consejos": [
+      "Buena opción para familias.",
+      "Lleva calzado que agarre bien.",
+      "Respeta las indicaciones del parque."
+    ]
+  },
+  {
+    "id": 5009,
+    "provincia": "Galicia",
+    "nombre": "Camiño de Fontardión",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta lineal de la red oficial de senderos del Parque Natural Fragas do Eume.",
+    "distancia": "15 km",
+    "desnivel": "No indicado",
+    "duracion": "3 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Bosque",
+    "descripcion": "Ruta más exigente dentro de la red del Eume, pensada para senderistas con algo más de preparación.",
+    "consejos": [
+      "Ruta lineal y de dificultad media-alta.",
+      "Lleva agua y comida.",
+      "Consulta el estado del sendero antes de salir."
+    ]
+  },
+  {
+    "id": 5010,
+    "provincia": "Galicia",
+    "nombre": "Camiño dos Corzos",
+    "ubicacion": "Parque Natural Fragas do Eume, A Coruña",
+    "comoLlegar": "Ruta lineal señalizada dentro del Parque Natural Fragas do Eume.",
+    "distancia": "3 km",
+    "desnivel": "Bajo",
+    "duracion": "1 h",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Bosque",
+    "descripcion": "Ruta corta por el entorno natural del Eume, clasificada como media por el parque.",
+    "consejos": [
+      "Corta pero conviene llevar calzado adecuado.",
+      "Respeta las zonas protegidas.",
+      "Ideal para combinar con otra ruta corta."
+    ]
+  },
+  {
+    "id": 5011,
+    "provincia": "Galicia",
+    "nombre": "Ruta da Corga da Fecha",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta señalizada dentro del entorno del Xurés.",
+    "distancia": "3,6 km",
+    "desnivel": "Alto",
+    "duracion": "3 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Cascada",
+    "descripcion": "Ruta corta pero dura por el entorno de la Corga da Fecha, con fuerte pendiente y paisaje de agua y montaña.",
+    "consejos": [
+      "No te fíes de la distancia: es exigente.",
+      "Evita lluvia intensa por riesgo de resbalones.",
+      "Lleva buen calzado."
+    ]
+  },
+  {
+    "id": 5012,
+    "provincia": "Galicia",
+    "nombre": "Ruta de Padrendo",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta circular señalizada en el entorno de Padrendo, dentro del Xurés.",
+    "distancia": "11 km",
+    "desnivel": "Moderado-alto",
+    "duracion": "4 h",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta circular de montaña por el Xurés, con paisaje granítico, caminos rurales y desnivel considerable.",
+    "consejos": [
+      "Lleva agua y comida.",
+      "Evita las horas de calor.",
+      "Consulta el estado del sendero antes de salir."
+    ]
+  },
+  {
+    "id": 5013,
+    "provincia": "Galicia",
+    "nombre": "Ruta de Queguas",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta señalizada en el entorno de Queguas, dentro del Xurés.",
+    "distancia": "8,5 km",
+    "desnivel": "Moderado",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta de montaña por el Xurés, con recorrido circular y paisaje natural de gran valor.",
+    "consejos": [
+      "Buena opción de media jornada.",
+      "Lleva agua y protección solar.",
+      "Precaución con calor o niebla."
+    ]
+  },
+  {
+    "id": 5014,
+    "provincia": "Galicia",
+    "nombre": "Ruta da Ermita do Xurés",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta circular dentro del entorno del Xurés.",
+    "distancia": "4 km",
+    "desnivel": "Moderado",
+    "duracion": "2 h 30 min",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Histórica",
+    "descripcion": "Ruta corta hacia el entorno de la ermita del Xurés, combinando paisaje de montaña y patrimonio local.",
+    "consejos": [
+      "Ruta corta pero no plana.",
+      "Lleva agua.",
+      "Respeta el entorno patrimonial."
+    ]
+  },
+  {
+    "id": 5015,
+    "provincia": "Galicia",
+    "nombre": "Ruta Minas das Sombras",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta lineal señalizada dentro del Xurés.",
+    "distancia": "14 km",
+    "desnivel": "Alto",
+    "duracion": "8 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta larga y exigente por el Xurés, con recorrido hacia el entorno de las Minas das Sombras.",
+    "consejos": [
+      "Solo recomendable con preparación.",
+      "Ruta larga: sal temprano.",
+      "Lleva comida, agua y protección contra cambios de tiempo."
+    ]
+  },
+  {
+    "id": 5016,
+    "provincia": "Galicia",
+    "nombre": "Ruta do Río Agro",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta circular por el entorno del río Agro, dentro del Xurés.",
+    "distancia": "16,5 km",
+    "desnivel": "Moderado-alto",
+    "duracion": "4-5 h",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Río",
+    "descripcion": "Ruta circular larga por el río Agro y su entorno natural, con tramos de montaña y paisaje fluvial.",
+    "consejos": [
+      "Prepara bien el horario.",
+      "Lleva agua y calzado de senderismo.",
+      "No recomendable con crecidas o lluvia intensa."
+    ]
+  },
+  {
+    "id": 5017,
+    "provincia": "Galicia",
+    "nombre": "Ruta do Río Mao",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta circular señalizada junto al río Mao, en el entorno del Xurés.",
+    "distancia": "3,4 km",
+    "desnivel": "Bajo-moderado",
+    "duracion": "2 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Río",
+    "descripcion": "Ruta corta por el entorno del río Mao, adecuada para disfrutar de paisaje fluvial sin gran distancia.",
+    "consejos": [
+      "Puede haber zonas húmedas.",
+      "Calzado con buen agarre.",
+      "Buena opción para paseo corto."
+    ]
+  },
+  {
+    "id": 5018,
+    "provincia": "Galicia",
+    "nombre": "Ruta do Río Vilameá",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta circular señalizada en el entorno del río Vilameá.",
+    "distancia": "1,7 km",
+    "desnivel": "Bajo-moderado",
+    "duracion": "45 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Río",
+    "descripcion": "Ruta muy corta por el entorno del río Vilameá, perfecta para un paseo breve en el Xurés.",
+    "consejos": [
+      "Ideal para paseo suave.",
+      "Cuidado con piedras húmedas.",
+      "Respeta el entorno del río."
+    ]
+  },
+  {
+    "id": 5019,
+    "provincia": "Galicia",
+    "nombre": "Ruta Torrente - Salgueiro",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta lineal dentro de la red de senderos del Xurés.",
+    "distancia": "22 km",
+    "desnivel": "Alto",
+    "duracion": "12 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta muy larga y exigente del Xurés, entre Torrente y Salgueiro.",
+    "consejos": [
+      "Solo para senderistas preparados.",
+      "Conviene dividir o planificar con mucho margen.",
+      "Lleva comida, agua y equipo completo."
+    ]
+  },
+  {
+    "id": 5020,
+    "provincia": "Galicia",
+    "nombre": "Ruta A Cela - Pitões",
+    "ubicacion": "Parque Natural Baixa Limia - Serra do Xurés, Ourense",
+    "comoLlegar": "Ruta lineal transfronteriza en el entorno del Xurés.",
+    "distancia": "28 km",
+    "desnivel": "Alto",
+    "duracion": "10 h",
+    "dificultad": "Alta",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta larga entre A Cela y Pitões, en entorno de montaña granítica y paisaje transfronterizo.",
+    "consejos": [
+      "Ruta muy larga, solo con preparación.",
+      "Organiza transporte de regreso.",
+      "Consulta la meteorología y lleva equipamiento adecuado."
+    ]
+  },
+  {
+    "id": 5021,
+    "provincia": "Galicia",
+    "nombre": "PR-G 200 Lagoas Glaciares da Serpe e de Ocelo",
+    "ubicacion": "A Veiga, Ourense",
+    "comoLlegar": "Desde A Rúa o A Gudiña por la OU-533 hasta el Alto do Covelo. Continuar hacia A Veiga, Xares y A Ponte.",
+    "distancia": "14 km",
+    "desnivel": "No indicado",
+    "duracion": "5 h",
+    "dificultad": "Alta",
+    "tipo": "Circular",
+    "categoria": "Lago",
+    "descripcion": "Ruta de montaña desde A Ponte hacia las lagunas glaciares de Ocelo y A Serpe, en el macizo de Trevinca.",
+    "consejos": [
+      "Ruta de montaña exigente.",
+      "Consulta meteorología antes de salir.",
+      "Lleva abrigo, agua y comida."
+    ]
+  },
+  {
+    "id": 5022,
+    "provincia": "Galicia",
+    "nombre": "PR-G 228 Fervenza Pena dos Portelos",
+    "ubicacion": "A Ribeira de Piquín, Lugo",
+    "comoLlegar": "Ruta entre O Chao de Pousadoiro, San Xurxo de Piquín y la Fervenza da Pena dos Portelos.",
+    "distancia": "No indicado",
+    "desnivel": "No indicado",
+    "duracion": "2 h",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Cascada",
+    "descripcion": "Ruta hacia la Fervenza da Pena dos Portelos, atravesando fraga y entorno fluvial.",
+    "consejos": [
+      "Se recomiendan botas de montaña, provisiones y agua.",
+      "Puede haber terreno húmedo.",
+      "Consulta el trazado antes de salir."
+    ]
+  },
+  {
+    "id": 5023,
+    "provincia": "Galicia",
+    "nombre": "PR-G 93 Ruta Ribeira do Ulla",
+    "ubicacion": "Río Ulla",
+    "comoLlegar": "Inicio en Ponte Basebe y final en el cruce de la pista de la carretera de San Pedro de Ribeira.",
+    "distancia": "12,8 km",
+    "desnivel": "No indicado",
+    "duracion": "4 h",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Río",
+    "descripcion": "Ruta por la ribera del Ulla, pasando por carballeiras, la Fervenza do Inferniño y pozas del entorno fluvial.",
+    "consejos": [
+      "Al ser lineal, organiza la vuelta.",
+      "Puede haber zonas húmedas.",
+      "Lleva calzado con buen agarre."
+    ]
+  },
+  {
+    "id": 5024,
+    "provincia": "Galicia",
+    "nombre": "PR-G 1 Galiñeiro",
+    "ubicacion": "Vigo, Pontevedra",
+    "comoLlegar": "Acceso por la carretera de Vigo a Gondomar, deteniéndose en A Pasaxe.",
+    "distancia": "8,2 km",
+    "desnivel": "No indicado",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Montaña",
+    "descripcion": "Ruta por el entorno del Galiñeiro, la presa de Zamáns y A Pasaxe.",
+    "consejos": [
+      "Lleva agua y calzado de montaña.",
+      "Evita días de mucho calor.",
+      "Consulta el recorrido antes de salir."
+    ]
+  },
+  {
+    "id": 5025,
+    "provincia": "Galicia",
+    "nombre": "PR-G 167 Roteiro da Ermida",
+    "ubicacion": "Toques, A Coruña",
+    "comoLlegar": "Desde Melide seguir la CP-4604 hasta Souto y continuar hacia Mangoeiro y A Ponte da Grela.",
+    "distancia": "9,2 km",
+    "desnivel": "No indicado",
+    "duracion": "2 h 45 min",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Histórica",
+    "descripcion": "Ruta en el municipio de Toques, vinculada al Camino Primitivo y al entorno rural de A Ponte da Grela.",
+    "consejos": [
+      "Buena opción de media jornada.",
+      "Lleva agua y calzado cómodo.",
+      "Respeta caminos y entorno rural."
+    ]
+  },
+  {
+    "id": 6001,
+    "provincia": "Andalucía",
+    "nombre": "Caminito del Rey",
+    "ubicacion": "Ardales / Álora, Málaga",
+    "comoLlegar": "Acceso norte desde Ardales y salida sur en El Chorro, Álora. Es obligatorio consultar reserva, horario y normas oficiales antes de ir.",
+    "distancia": "7,7 km",
+    "desnivel": "No indicado",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Desfiladero",
+    "descripcion": "Ruta icónica por pasarelas y senderos del Desfiladero de los Gaitanes, una de las visitas de naturaleza más famosas de Andalucía.",
+    "consejos": [
+      "Requiere entrada o reserva oficial.",
+      "No apto para menores de 8 años.",
+      "No recomendable para personas con vértigo fuerte."
+    ]
+  },
+  {
+    "id": 6002,
+    "provincia": "Andalucía",
+    "nombre": "Torcal de Antequera - Ruta Verde",
+    "ubicacion": "Paraje Natural Torcal de Antequera, Málaga",
+    "comoLlegar": "Inicio y final en el aparcamiento superior del Centro de Visitantes Torcal Alto.",
+    "distancia": "1,5 km",
+    "desnivel": "40 m",
+    "duracion": "45 min",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Natural",
+    "descripcion": "Ruta corta señalizada por el Torcal Alto, ideal para una primera visita entre formaciones kársticas.",
+    "consejos": [
+      "Terreno muy pedregoso e irregular.",
+      "No abandonar el sendero señalizado.",
+      "Puede estar resbaladizo con humedad."
+    ]
+  },
+  {
+    "id": 6003,
+    "provincia": "Andalucía",
+    "nombre": "Torcal de Antequera - Ruta Amarilla",
+    "ubicacion": "Paraje Natural Torcal de Antequera, Málaga",
+    "comoLlegar": "Inicio y final en el Centro de Visitantes Torcal Alto.",
+    "distancia": "3 km",
+    "desnivel": "53 m",
+    "duracion": "2 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Natural",
+    "descripcion": "Ruta señalizada por el laberinto de rocas del Torcal Alto, una de las visitas más populares de Antequera.",
+    "consejos": [
+      "Usa botas o calzado con agarre.",
+      "Lleva abrigo: la altitud cambia mucho la temperatura.",
+      "En días de mucha afluencia puede restringirse el acceso en vehículo."
+    ]
+  },
+  {
+    "id": 6004,
+    "provincia": "Andalucía",
+    "nombre": "Torcal de Antequera - Ruta Naranja",
+    "ubicacion": "Paraje Natural Torcal de Antequera, Málaga",
+    "comoLlegar": "Desde el aparcamiento inferior hasta el aparcamiento superior del Torcal Alto.",
+    "distancia": "3,6 km",
+    "desnivel": "263 m",
+    "duracion": "3 h 30 min ida y vuelta",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Ruta de subida al Torcal Alto desde el aparcamiento inferior, con vistas y paso por zonas de antiguas canteras y pastos.",
+    "consejos": [
+      "Más exigente que las rutas Verde y Amarilla.",
+      "Evita niebla densa.",
+      "No recojas fósiles, minerales ni plantas."
+    ]
+  },
+  {
+    "id": 6005,
+    "provincia": "Andalucía",
+    "nombre": "Río Chíllar",
+    "ubicacion": "Nerja, Málaga",
+    "comoLlegar": "Inicio habitual desde el entorno del cauce del río Chíllar, en Nerja. Consultar restricciones municipales antes de salir.",
+    "distancia": "8-16 km según tramo",
+    "desnivel": "Bajo-moderado",
+    "duracion": "3-6 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Río",
+    "descripcion": "Ruta acuática muy conocida por el cauce del río Chíllar, entre paredes rocosas, pozas y tramos de agua.",
+    "consejos": [
+      "Consultar siempre si está permitido el acceso.",
+      "Usar calzado acuático o de montaña que se pueda mojar.",
+      "No hacer con riesgo de tormentas o crecidas."
+    ]
+  },
+  {
+    "id": 6006,
+    "provincia": "Andalucía",
+    "nombre": "Pico Torrecilla",
+    "ubicacion": "Parque Nacional Sierra de las Nieves, Málaga",
+    "comoLlegar": "Acceso habitual desde Quejigales o rutas autorizadas del Parque Nacional Sierra de las Nieves.",
+    "distancia": "12-16 km según acceso",
+    "desnivel": "800-1000 m aprox.",
+    "duracion": "5-7 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ascensión clásica al techo de la Sierra de las Nieves, muy popular entre senderistas de Málaga.",
+    "consejos": [
+      "Ruta de alta montaña: consultar meteorología.",
+      "Llevar agua suficiente y ropa de abrigo.",
+      "Evitar nieve o hielo sin experiencia."
+    ]
+  },
+  {
+    "id": 6007,
+    "provincia": "Andalucía",
+    "nombre": "Pinsapo de las Escaleretas",
+    "ubicacion": "Sierra de las Nieves, Málaga",
+    "comoLlegar": "Acceso por pistas y senderos del entorno de Parauta y la Sierra de las Nieves. Consultar estado de accesos.",
+    "distancia": "4-8 km según inicio",
+    "desnivel": "Moderado",
+    "duracion": "2-3 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Bosque",
+    "descripcion": "Ruta hacia uno de los pinsapos más conocidos de Andalucía, en el entorno protegido de la Sierra de las Nieves.",
+    "consejos": [
+      "Respeta el pinsapar y no salgas de senderos.",
+      "No hacer fuego ni dejar residuos.",
+      "Puede requerir información previa por pistas o regulación."
+    ]
+  },
+  {
+    "id": 6008,
+    "provincia": "Andalucía",
+    "nombre": "Camino del Desfiladero de Ronda",
+    "ubicacion": "Ronda, Málaga",
+    "comoLlegar": "Acceso desde el entorno urbano de Ronda y el tajo del río Guadalevín. Consultar horarios y apertura.",
+    "distancia": "No indicado",
+    "desnivel": "No indicado",
+    "duracion": "No indicado",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Desfiladero",
+    "descripcion": "Nuevo recorrido turístico por el desfiladero del río Guadalevín, bajo el espectacular entorno del Tajo de Ronda.",
+    "consejos": [
+      "Consultar apertura, horarios y normas.",
+      "No apto para vértigo fuerte.",
+      "Ideal para combinar con visita cultural a Ronda."
+    ]
+  },
+  {
+    "id": 6009,
+    "provincia": "Andalucía",
+    "nombre": "Los Cahorros de Monachil",
+    "ubicacion": "Monachil, Granada",
+    "comoLlegar": "Inicio habitual desde Monachil, siguiendo señalización hacia Los Cahorros.",
+    "distancia": "8 km aprox.",
+    "desnivel": "Moderado",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Desfiladero",
+    "descripcion": "Ruta muy popular junto al río Monachil, con puentes colgantes, paredes estrechas y tramos encajados.",
+    "consejos": [
+      "Puede estar muy concurrida en fines de semana.",
+      "Cuidado en tramos estrechos y húmedos.",
+      "No recomendable con crecidas."
+    ]
+  },
+  {
+    "id": 6010,
+    "provincia": "Andalucía",
+    "nombre": "Vereda de la Estrella",
+    "ubicacion": "Güéjar Sierra, Granada",
+    "comoLlegar": "Inicio habitual en el Barranco de San Juan, cerca de Güéjar Sierra.",
+    "distancia": "18-22 km ida y vuelta según tramo",
+    "desnivel": "Moderado-alto",
+    "duracion": "5-7 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ruta histórica de Sierra Nevada junto al río Genil, con vistas a las grandes cumbres y antiguos caminos mineros.",
+    "consejos": [
+      "Ruta larga: salir temprano.",
+      "Llevar agua y comida.",
+      "Consultar meteorología de Sierra Nevada."
+    ]
+  },
+  {
+    "id": 6011,
+    "provincia": "Andalucía",
+    "nombre": "Mulhacén desde Capileira",
+    "ubicacion": "Capileira, Granada",
+    "comoLlegar": "Acceso desde Capileira y rutas de alta montaña de Sierra Nevada. Consultar regulación y lanzaderas si aplica.",
+    "distancia": "No indicado",
+    "desnivel": "Alto",
+    "duracion": "1 jornada completa",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Ascensión al Mulhacén, la cumbre más alta de la península ibérica, desde el entorno de Capileira.",
+    "consejos": [
+      "Alta montaña: imprescindible consultar condiciones.",
+      "Evitar nieve, hielo o tormenta sin equipo y experiencia.",
+      "Llevar abrigo incluso en verano."
+    ]
+  },
+  {
+    "id": 6012,
+    "provincia": "Andalucía",
+    "nombre": "Siete Lagunas desde Trevélez",
+    "ubicacion": "Trevélez, Granada",
+    "comoLlegar": "Inicio en Trevélez, siguiendo rutas de alta montaña hacia Siete Lagunas.",
+    "distancia": "17-20 km aprox.",
+    "desnivel": "1400 m aprox.",
+    "duracion": "7-9 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Lago",
+    "descripcion": "Ruta exigente de alta montaña hacia las lagunas glaciares de Sierra Nevada desde Trevélez.",
+    "consejos": [
+      "Solo para senderistas preparados.",
+      "Consultar nieve, tormentas y temperatura.",
+      "Llevar equipo de montaña, comida y agua."
+    ]
+  },
+  {
+    "id": 6013,
+    "provincia": "Andalucía",
+    "nombre": "Ruta del Gollizno",
+    "ubicacion": "Moclín, Granada",
+    "comoLlegar": "Inicio habitual desde Moclín, siguiendo señalización del sendero.",
+    "distancia": "8 km aprox.",
+    "desnivel": "Moderado",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Histórica",
+    "descripcion": "Ruta circular con pasarelas, río, pinturas rupestres, vistas y patrimonio en el entorno de Moclín.",
+    "consejos": [
+      "Evitar horas de calor.",
+      "Calzado con buen agarre.",
+      "Ideal para combinar naturaleza e historia."
+    ]
+  },
+  {
+    "id": 6014,
+    "provincia": "Andalucía",
+    "nombre": "Sendero Veleta",
+    "ubicacion": "Sierra Nevada, Granada",
+    "comoLlegar": "Inicio en zonas altas de Sierra Nevada, según temporada y accesos disponibles.",
+    "distancia": "4,385 km",
+    "desnivel": "373 m",
+    "duracion": "2 h 20 min ida",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Ruta de altura hacia el entorno del Veleta, con grandes vistas de Sierra Nevada.",
+    "consejos": [
+      "Alta montaña: consultar condiciones.",
+      "Puede hacer frío y viento incluso en verano.",
+      "Llevar protección solar y abrigo."
+    ]
+  },
+  {
+    "id": 6015,
+    "provincia": "Andalucía",
+    "nombre": "Sendero Virgen de las Nieves",
+    "ubicacion": "Sierra Nevada, Granada",
+    "comoLlegar": "Inicio en la estación superior del telecabina Borreguiles, en temporada de verano.",
+    "distancia": "2,58 km",
+    "desnivel": "84 m",
+    "duracion": "1 h 25 min ida",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Alta montaña",
+    "descripcion": "Sendero de alta montaña sencillo hacia el monumento de la Virgen de las Nieves, con vistas del entorno de Borreguiles.",
+    "consejos": [
+      "Consultar apertura de remontes.",
+      "Llevar abrigo y protección solar.",
+      "Respetar los senderos señalizados."
+    ]
+  },
+  {
+    "id": 6016,
+    "provincia": "Andalucía",
+    "nombre": "Río Majaceite",
+    "ubicacion": "El Bosque / Benamahoma, Cádiz",
+    "comoLlegar": "Inicio desde El Bosque o Benamahoma, en el Parque Natural Sierra de Grazalema.",
+    "distancia": "10,359 km",
+    "desnivel": "No indicado",
+    "duracion": "3 h 30 min",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Río",
+    "descripcion": "Sendero muy popular junto al río Majaceite, con bosque de galería y ambiente fresco.",
+    "consejos": [
+      "Muy concurrida en fines de semana.",
+      "Calzado cómodo y agua.",
+      "Respeta el entorno fluvial."
+    ]
+  },
+  {
+    "id": 6017,
+    "provincia": "Andalucía",
+    "nombre": "Garganta Verde",
+    "ubicacion": "Zahara de la Sierra, Cádiz",
+    "comoLlegar": "Acceso desde la carretera CA-9104, en el entorno de Zahara de la Sierra.",
+    "distancia": "2,5 km ida",
+    "desnivel": "Fuerte bajada y subida",
+    "duracion": "1 h 40 min ida",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Desfiladero",
+    "descripcion": "Espectacular cañón de la Sierra de Grazalema, hábitat de buitres leonados y una de las rutas más famosas de Cádiz.",
+    "consejos": [
+      "Requiere autorización en determinados periodos.",
+      "Fuerte desnivel: la vuelta exige subida.",
+      "No hacer con lluvia o riesgo de desprendimientos."
+    ]
+  },
+  {
+    "id": 6018,
+    "provincia": "Andalucía",
+    "nombre": "El Pinsapar de Grazalema",
+    "ubicacion": "Grazalema / Benamahoma, Cádiz",
+    "comoLlegar": "Ruta del Parque Natural Sierra de Grazalema. Consultar autorización y condiciones antes de salir.",
+    "distancia": "10-12 km aprox.",
+    "desnivel": "Moderado-alto",
+    "duracion": "4-5 h",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Bosque",
+    "descripcion": "Ruta clásica por el pinsapar de Grazalema, uno de los bosques más singulares de Andalucía.",
+    "consejos": [
+      "Puede requerir autorización.",
+      "No salirse del sendero.",
+      "Evitar días de calor fuerte o niebla."
+    ]
+  },
+  {
+    "id": 6019,
+    "provincia": "Andalucía",
+    "nombre": "Llanos del Rabel",
+    "ubicacion": "Sierra de Grazalema, Cádiz",
+    "comoLlegar": "Acceso desde el entorno de Grazalema y Zahara de la Sierra, consultar regulación del parque.",
+    "distancia": "6-7 km aprox.",
+    "desnivel": "Bajo-moderado",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Familiar",
+    "descripcion": "Ruta sencilla y conocida en la Sierra de Grazalema, con vistas y ambiente de montaña suave.",
+    "consejos": [
+      "Consultar si requiere permiso.",
+      "Buena opción familiar.",
+      "Llevar agua y protección solar."
+    ]
+  },
+  {
+    "id": 6020,
+    "provincia": "Andalucía",
+    "nombre": "Salto del Cabrero",
+    "ubicacion": "Benaocaz / Grazalema, Cádiz",
+    "comoLlegar": "Acceso desde Benaocaz o rutas del entorno del Parque Natural Sierra de Grazalema.",
+    "distancia": "7-9 km aprox.",
+    "desnivel": "Moderado",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Mirador",
+    "descripcion": "Ruta hacia una formación rocosa emblemática de Grazalema, con vistas abiertas y paisaje calizo.",
+    "consejos": [
+      "Llevar calzado de montaña.",
+      "Evitar días de calor intenso.",
+      "Precaución con niebla y zonas rocosas."
+    ]
+  },
+  {
+    "id": 6021,
+    "provincia": "Andalucía",
+    "nombre": "Acantilado de Barbate - Torre del Tajo",
+    "ubicacion": "Parque Natural La Breña y Marismas del Barbate, Cádiz",
+    "comoLlegar": "Inicio habitual desde Barbate o Caños de Meca, siguiendo el sendero hacia la Torre del Tajo.",
+    "distancia": "7-12 km según tramo",
+    "desnivel": "Moderado",
+    "duracion": "2-4 h",
+    "dificultad": "Media",
+    "tipo": "Lineal por tramos",
+    "categoria": "Costa",
+    "descripcion": "Ruta costera por pinares y acantilados con vistas al Atlántico y a la Torre del Tajo.",
+    "consejos": [
+      "No acercarse al borde del acantilado.",
+      "Llevar agua y protección solar.",
+      "Evitar viento fuerte."
+    ]
+  },
+  {
+    "id": 6022,
+    "provincia": "Andalucía",
+    "nombre": "Camino de los Charcones - Puerto del Boyar",
+    "ubicacion": "Grazalema, Cádiz",
+    "comoLlegar": "Une Grazalema con el Puerto del Boyar, siguiendo el nacimiento del río Guadalete.",
+    "distancia": "No indicado",
+    "desnivel": "Moderado",
+    "duracion": "No indicado",
+    "dificultad": "Media",
+    "tipo": "Lineal",
+    "categoria": "Montaña",
+    "descripcion": "Paseo por la Sierra de Grazalema paralelo al nacimiento del río Guadalete, con vistas hacia la Sierra de las Cumbres.",
+    "consejos": [
+      "Calzado cómodo de senderismo.",
+      "Llevar agua.",
+      "Consultar condiciones del parque natural."
+    ]
+  },
+  {
+    "id": 6023,
+    "provincia": "Andalucía",
+    "nombre": "Río Borosa",
+    "ubicacion": "Sierra de Cazorla, Segura y Las Villas, Jaén",
+    "comoLlegar": "Inicio junto al Centro de Visitantes Río Borosa, cerca de la Torre del Vinagre.",
+    "distancia": "22 km ida y vuelta",
+    "desnivel": "No indicado",
+    "duracion": "7 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Río",
+    "descripcion": "Ruta muy famosa junto al río Borosa, la Cerrada de Elías y el entorno de Valdeazores.",
+    "consejos": [
+      "Consultar avisos oficiales: en 2026 hay reapertura parcial del sendero.",
+      "No entrar en tramos cerrados.",
+      "Llevar agua, comida y calzado de montaña."
+    ]
+  },
+  {
+    "id": 6024,
+    "provincia": "Andalucía",
+    "nombre": "Cerrada de Utrero",
+    "ubicacion": "Sierra de Cazorla, Jaén",
+    "comoLlegar": "Acceso desde el entorno de Vadillo-Castril, en el Parque Natural Sierras de Cazorla, Segura y Las Villas.",
+    "distancia": "2 km aprox.",
+    "desnivel": "Moderado",
+    "duracion": "1 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Desfiladero",
+    "descripcion": "Ruta corta y espectacular por un cañón calizo cercano al río Guadalquivir.",
+    "consejos": [
+      "Puede haber tramos estrechos o resbaladizos.",
+      "Ideal para combinar con otras visitas del parque.",
+      "Consultar estado del sendero."
+    ]
+  },
+  {
+    "id": 6025,
+    "provincia": "Andalucía",
+    "nombre": "Cascada de Linarejos",
+    "ubicacion": "Sierra de Cazorla, Jaén",
+    "comoLlegar": "Acceso desde el entorno de Vadillo-Castril y rutas cercanas a la Cerrada de Utrero.",
+    "distancia": "No indicado",
+    "desnivel": "No indicado",
+    "duracion": "No indicado",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Ruta hacia una de las cascadas más conocidas del entorno de Cazorla, especialmente atractiva tras lluvias.",
+    "consejos": [
+      "Consultar estado y acceso.",
+      "No acercarse a zonas expuestas.",
+      "Puede haber terreno resbaladizo."
+    ]
+  },
+  {
+    "id": 6026,
+    "provincia": "Andalucía",
+    "nombre": "Nacimiento del Guadalquivir",
+    "ubicacion": "Sierra de Cazorla, Jaén",
+    "comoLlegar": "Acceso por pistas y carreteras del Parque Natural Sierras de Cazorla, Segura y Las Villas.",
+    "distancia": "Variable según punto de inicio",
+    "desnivel": "Moderado",
+    "duracion": "2-5 h según tramo",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Río",
+    "descripcion": "Ruta hacia el entorno del nacimiento del río Guadalquivir, uno de los lugares simbólicos de la sierra.",
+    "consejos": [
+      "Consultar estado de pistas.",
+      "Llevar agua y abrigo según época.",
+      "Respetar el entorno del nacimiento."
+    ]
+  },
+  {
+    "id": 6027,
+    "provincia": "Andalucía",
+    "nombre": "Pico Gilillo",
+    "ubicacion": "Cazorla, Jaén",
+    "comoLlegar": "Inicio habitual desde Cazorla o el entorno del Puerto del Tejo.",
+    "distancia": "12-16 km aprox.",
+    "desnivel": "Alto",
+    "duracion": "5-7 h",
+    "dificultad": "Alta",
+    "tipo": "Circular / ida y vuelta",
+    "categoria": "Montaña",
+    "descripcion": "Ascensión clásica sobre Cazorla, con vistas amplias del parque natural.",
+    "consejos": [
+      "Ruta exigente.",
+      "Evitar calor fuerte.",
+      "Llevar agua, comida y protección solar."
+    ]
+  },
+  {
+    "id": 6028,
+    "provincia": "Andalucía",
+    "nombre": "Subida al Yelmo",
+    "ubicacion": "Segura de la Sierra, Jaén",
+    "comoLlegar": "Acceso desde el entorno de Segura de la Sierra y rutas hacia el pico El Yelmo.",
+    "distancia": "No indicado",
+    "desnivel": "Alto",
+    "duracion": "4-6 h",
+    "dificultad": "Alta",
+    "tipo": "Ida y vuelta",
+    "categoria": "Mirador",
+    "descripcion": "Ascensión a uno de los miradores naturales más conocidos de la Sierra de Segura.",
+    "consejos": [
+      "Consultar viento y meteorología.",
+      "Ruta de montaña.",
+      "Llevar agua y ropa adecuada."
+    ]
+  },
+  {
+    "id": 6029,
+    "provincia": "Andalucía",
+    "nombre": "Cueva del Agua de Tíscar",
+    "ubicacion": "Quesada, Jaén",
+    "comoLlegar": "Acceso desde Quesada hacia Tíscar, con visita al entorno de la cueva y santuario.",
+    "distancia": "Corta",
+    "desnivel": "Bajo-moderado",
+    "duracion": "1-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Paseo corto en un entorno muy visitado, con agua, cueva y paisaje rocoso.",
+    "consejos": [
+      "Ideal para visita corta.",
+      "Cuidado con escalones y humedad.",
+      "Combinar con visita cultural cercana."
+    ]
+  },
+  {
+    "id": 6030,
+    "provincia": "Andalucía",
+    "nombre": "Cerrada del Utrero - Variante familiar",
+    "ubicacion": "Vadillo-Castril, Jaén",
+    "comoLlegar": "Acceso desde Vadillo-Castril, en el Parque Natural Sierras de Cazorla, Segura y Las Villas.",
+    "distancia": "2 km aprox.",
+    "desnivel": "Bajo-moderado",
+    "duracion": "1 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Familiar",
+    "descripcion": "Versión corta y familiar de uno de los paseos más conocidos del entorno de Cazorla.",
+    "consejos": [
+      "Buena opción para una visita rápida.",
+      "Consultar si hay cierres por obras o desprendimientos.",
+      "No salirse del sendero."
+    ]
+  },
+  {
+    "id": 6031,
+    "provincia": "Andalucía",
+    "nombre": "San José - Genoveses - Mónsul",
+    "ubicacion": "Parque Natural Cabo de Gata-Níjar, Almería",
+    "comoLlegar": "Inicio en San José, siguiendo senderos y pistas hacia las playas de Los Genoveses y Mónsul.",
+    "distancia": "12,5 km",
+    "desnivel": "485 m acumulado",
+    "duracion": "5 h 30 min",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Costa",
+    "descripcion": "Ruta costera muy popular por algunas de las playas más famosas de Cabo de Gata.",
+    "consejos": [
+      "Evitar horas centrales en verano.",
+      "Llevar mucha agua y protección solar.",
+      "Consultar regulación de acceso a playas en temporada alta."
+    ]
+  },
+  {
+    "id": 6032,
+    "provincia": "Andalucía",
+    "nombre": "Arrecife de las Sirenas",
+    "ubicacion": "Cabo de Gata, Almería",
+    "comoLlegar": "Acceso desde el faro de Cabo de Gata y miradores cercanos.",
+    "distancia": "Corta",
+    "desnivel": "Bajo",
+    "duracion": "30 min - 1 h",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Mirador",
+    "descripcion": "Paseo corto a uno de los miradores más fotografiados de Cabo de Gata.",
+    "consejos": [
+      "Mucho viento en algunos días.",
+      "No bajar a zonas peligrosas.",
+      "Ideal al amanecer o atardecer."
+    ]
+  },
+  {
+    "id": 6033,
+    "provincia": "Andalucía",
+    "nombre": "Las Negras - Cala San Pedro",
+    "ubicacion": "Níjar, Almería",
+    "comoLlegar": "Inicio en Las Negras, siguiendo sendero costero hacia Cala San Pedro.",
+    "distancia": "8-10 km ida y vuelta",
+    "desnivel": "Moderado",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Costa",
+    "descripcion": "Ruta costera muy conocida hacia Cala San Pedro, con vistas del litoral volcánico.",
+    "consejos": [
+      "Sin sombra en muchos tramos.",
+      "Llevar agua suficiente.",
+      "Evitar calor extremo."
+    ]
+  },
+  {
+    "id": 6034,
+    "provincia": "Andalucía",
+    "nombre": "Agua Amarga - Mesa Roldán",
+    "ubicacion": "Cabo de Gata-Níjar, Almería",
+    "comoLlegar": "Inicio en Agua Amarga, siguiendo caminos hacia Mesa Roldán.",
+    "distancia": "8-12 km según tramo",
+    "desnivel": "Moderado",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Costa",
+    "descripcion": "Ruta por el litoral de Cabo de Gata hacia el entorno de Mesa Roldán y sus vistas costeras.",
+    "consejos": [
+      "Evitar días de mucho calor.",
+      "Llevar agua y gorra.",
+      "No acercarse a cortados o zonas inestables."
+    ]
+  },
+  {
+    "id": 6035,
+    "provincia": "Andalucía",
+    "nombre": "Ruta Hidroeléctrica de Laujar",
+    "ubicacion": "Laujar de Andarax, Almería",
+    "comoLlegar": "Inicio en el entorno recreativo de Laujar de Andarax, siguiendo señalización de la ruta.",
+    "distancia": "7-9 km aprox.",
+    "desnivel": "Moderado",
+    "duracion": "3 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Río",
+    "descripcion": "Ruta por el valle del Andarax, con agua, acequias y restos de antiguas infraestructuras hidroeléctricas.",
+    "consejos": [
+      "Muy agradable fuera del verano más caluroso.",
+      "Calzado con agarre.",
+      "Llevar agua."
+    ]
+  },
+  {
+    "id": 6036,
+    "provincia": "Andalucía",
+    "nombre": "Desierto de Tabernas - Mini Hollywood entorno",
+    "ubicacion": "Tabernas, Almería",
+    "comoLlegar": "Accesos desde Tabernas y zonas de senderos del paraje natural.",
+    "distancia": "Variable según tramo",
+    "desnivel": "Bajo-moderado",
+    "duracion": "1-4 h",
+    "dificultad": "Media",
+    "tipo": "Circular / libre",
+    "categoria": "Natural",
+    "descripcion": "Rutas por paisaje semiárido único en Europa, famoso por escenarios de cine y cárcavas.",
+    "consejos": [
+      "Evitar calor extremo.",
+      "Llevar agua abundante.",
+      "No hacer con tormentas por riesgo en ramblas."
+    ]
+  },
+  {
+    "id": 6037,
+    "provincia": "Andalucía",
+    "nombre": "Río Bailón desde Zuheros",
+    "ubicacion": "Zuheros, Córdoba",
+    "comoLlegar": "Inicio en Zuheros, dentro del Parque Natural Sierras Subbéticas.",
+    "distancia": "12-17 km según tramo",
+    "desnivel": "Moderado-alto",
+    "duracion": "4-6 h",
+    "dificultad": "Media",
+    "tipo": "Circular / ida y vuelta",
+    "categoria": "Río",
+    "descripcion": "Ruta muy conocida en la Subbética cordobesa, con cañón, río y vistas del pueblo de Zuheros.",
+    "consejos": [
+      "Consultar restricciones y permisos si aplica.",
+      "Llevar agua.",
+      "Evitar calor intenso."
+    ]
+  },
+  {
+    "id": 6038,
+    "provincia": "Andalucía",
+    "nombre": "Las Ermitas de Córdoba",
+    "ubicacion": "Sierra de Córdoba",
+    "comoLlegar": "Acceso desde Córdoba capital hacia la sierra y el entorno de Las Ermitas.",
+    "distancia": "8-12 km según inicio",
+    "desnivel": "Moderado",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Histórica",
+    "descripcion": "Ruta clásica desde Córdoba hacia Las Ermitas, con vistas sobre la ciudad y la campiña.",
+    "consejos": [
+      "Evitar verano y horas de calor.",
+      "Llevar agua.",
+      "Ideal en otoño, invierno o primavera."
+    ]
+  },
+  {
+    "id": 6039,
+    "provincia": "Andalucía",
+    "nombre": "Arroyo Bejarano",
+    "ubicacion": "Santa María de Trassierra, Córdoba",
+    "comoLlegar": "Inicio habitual desde el entorno de Trassierra, siguiendo senderos hacia el arroyo Bejarano.",
+    "distancia": "7-10 km aprox.",
+    "desnivel": "Bajo-moderado",
+    "duracion": "2-4 h",
+    "dificultad": "Media",
+    "tipo": "Circular",
+    "categoria": "Río",
+    "descripcion": "Ruta popular de la sierra cordobesa junto a arroyos, vegetación y restos hidráulicos.",
+    "consejos": [
+      "Puede haber barro y pasos húmedos.",
+      "Llevar calzado adecuado.",
+      "Respetar fincas y caminos."
+    ]
+  },
+  {
+    "id": 6040,
+    "provincia": "Andalucía",
+    "nombre": "Sendero del Bembézar",
+    "ubicacion": "Parque Natural Sierra de Hornachuelos, Córdoba",
+    "comoLlegar": "Inicio en el entorno de Hornachuelos y el embalse del Bembézar.",
+    "distancia": "12-14 km aprox.",
+    "desnivel": "Moderado",
+    "duracion": "4-5 h",
+    "dificultad": "Media",
+    "tipo": "Lineal / ida y vuelta",
+    "categoria": "Río",
+    "descripcion": "Ruta por el valle del Bembézar, en un entorno de bosque mediterráneo y fauna.",
+    "consejos": [
+      "Consultar permisos o restricciones del parque.",
+      "Llevar prismáticos si te gusta observar aves.",
+      "Evitar días de calor intenso."
+    ]
+  },
+  {
+    "id": 6041,
+    "provincia": "Andalucía",
+    "nombre": "Vía Verde de la Subbética",
+    "ubicacion": "Lucena / Cabra / Doña Mencía, Córdoba",
+    "comoLlegar": "Accesos por varios municipios de la Subbética cordobesa.",
+    "distancia": "Hasta 65 km por tramos",
+    "desnivel": "Bajo",
+    "duracion": "2-6 h según tramo",
+    "dificultad": "Fácil",
+    "tipo": "Lineal por tramos",
+    "categoria": "Vía verde",
+    "descripcion": "Antigua vía ferroviaria acondicionada para caminar o ir en bici por la Subbética.",
+    "consejos": [
+      "Ideal por tramos familiares.",
+      "Muy buena para bicicleta.",
+      "Llevar agua en verano."
+    ]
+  },
+  {
+    "id": 6042,
+    "provincia": "Andalucía",
+    "nombre": "Sendero Laguna del Acebuche",
+    "ubicacion": "Espacio Natural de Doñana, Huelva",
+    "comoLlegar": "Inicio en el Centro de Visitantes El Acebuche, en el entorno de Doñana.",
+    "distancia": "Corta",
+    "desnivel": "Muy bajo",
+    "duracion": "1 h aprox.",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Natural",
+    "descripcion": "Paseo familiar por observatorios y lagunas del entorno de Doñana.",
+    "consejos": [
+      "Ideal para observar aves.",
+      "Llevar prismáticos.",
+      "Consultar horarios del centro de visitantes."
+    ]
+  },
+  {
+    "id": 6043,
+    "provincia": "Andalucía",
+    "nombre": "Cuesta Maneli",
+    "ubicacion": "Doñana / Mazagón, Huelva",
+    "comoLlegar": "Acceso desde la carretera entre Mazagón y Matalascañas, en el entorno de Doñana.",
+    "distancia": "2-4 km ida y vuelta",
+    "desnivel": "Bajo",
+    "duracion": "1-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Costa",
+    "descripcion": "Pasarela y sendero hacia playa y dunas, una de las visitas más conocidas del litoral de Doñana.",
+    "consejos": [
+      "Llevar protección solar.",
+      "Respetar dunas y pasarelas.",
+      "Consultar accesos y aparcamiento."
+    ]
+  },
+  {
+    "id": 6044,
+    "provincia": "Andalucía",
+    "nombre": "Aracena - Linares de la Sierra",
+    "ubicacion": "Sierra de Aracena, Huelva",
+    "comoLlegar": "Inicio desde Aracena o Linares de la Sierra, siguiendo senderos señalizados entre pueblos.",
+    "distancia": "8-10 km ida y vuelta",
+    "desnivel": "Moderado",
+    "duracion": "3-4 h",
+    "dificultad": "Media",
+    "tipo": "Ida y vuelta",
+    "categoria": "Bosque",
+    "descripcion": "Ruta entre pueblos blancos de la Sierra de Aracena, con dehesas, castaños y caminos tradicionales.",
+    "consejos": [
+      "Muy bonita en otoño.",
+      "Llevar agua.",
+      "Combinar con visita a Aracena."
+    ]
+  },
+  {
+    "id": 6045,
+    "provincia": "Andalucía",
+    "nombre": "Peña de Arias Montano",
+    "ubicacion": "Alájar, Huelva",
+    "comoLlegar": "Acceso desde Alájar hacia la Peña de Arias Montano y senderos cercanos.",
+    "distancia": "4-8 km según tramo",
+    "desnivel": "Moderado",
+    "duracion": "2-3 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular / ida y vuelta",
+    "categoria": "Mirador",
+    "descripcion": "Ruta por uno de los miradores y enclaves culturales más conocidos de la Sierra de Aracena.",
+    "consejos": [
+      "Ideal para visita tranquila.",
+      "Llevar cámara.",
+      "Calzado cómodo."
+    ]
+  },
+  {
+    "id": 6046,
+    "provincia": "Andalucía",
+    "nombre": "Río Tinto - Ruta del Ferrocarril",
+    "ubicacion": "Minas de Riotinto, Huelva",
+    "comoLlegar": "Accesos desde Minas de Riotinto y entorno del Parque Minero.",
+    "distancia": "Variable según tramo",
+    "desnivel": "Bajo",
+    "duracion": "1-3 h",
+    "dificultad": "Fácil",
+    "tipo": "Lineal por tramos",
+    "categoria": "Histórica",
+    "descripcion": "Ruta por el paisaje minero del Río Tinto, famoso por sus colores y patrimonio industrial.",
+    "consejos": [
+      "No tocar ni beber agua del río.",
+      "Respetar zonas restringidas.",
+      "Ideal combinar con visita al parque minero."
+    ]
+  },
+  {
+    "id": 6047,
+    "provincia": "Andalucía",
+    "nombre": "Cerro del Hierro",
+    "ubicacion": "Sierra Norte de Sevilla",
+    "comoLlegar": "Acceso desde San Nicolás del Puerto o Constantina hacia el Monumento Natural Cerro del Hierro.",
+    "distancia": "2-5 km según recorrido",
+    "desnivel": "Bajo-moderado",
+    "duracion": "1-2 h",
+    "dificultad": "Fácil",
+    "tipo": "Circular",
+    "categoria": "Natural",
+    "descripcion": "Ruta entre formaciones calizas y antiguos paisajes mineros, uno de los lugares más visitados de la Sierra Norte.",
+    "consejos": [
+      "Ideal para familias.",
+      "No salirse de senderos.",
+      "Puede hacer mucho calor en verano."
+    ]
+  },
+  {
+    "id": 6048,
+    "provincia": "Andalucía",
+    "nombre": "Cascadas del Huéznar",
+    "ubicacion": "San Nicolás del Puerto, Sevilla",
+    "comoLlegar": "Acceso desde San Nicolás del Puerto y el entorno del río Huéznar.",
+    "distancia": "Corta",
+    "desnivel": "Bajo",
+    "duracion": "1 h aprox.",
+    "dificultad": "Fácil",
+    "tipo": "Ida y vuelta",
+    "categoria": "Cascada",
+    "descripcion": "Paseo hacia uno de los enclaves de agua más conocidos de la Sierra Norte de Sevilla.",
+    "consejos": [
+      "Consultar avisos oficiales antes de ir: puede haber cierres temporales.",
+      "No bañarse en zonas no permitidas.",
+      "Respeta pasarelas y vegetación."
+    ]
+  },
+  {
+    "id": 6049,
+    "provincia": "Andalucía",
+    "nombre": "Vía Verde de la Sierra Norte",
+    "ubicacion": "Sierra Norte de Sevilla",
+    "comoLlegar": "Accesos desde municipios de la Sierra Norte, especialmente entorno de San Nicolás del Puerto y Cazalla-Constantina.",
+    "distancia": "Hasta 19 km por tramos",
+    "desnivel": "Bajo",
+    "duracion": "2-5 h según tramo",
+    "dificultad": "Fácil",
+    "tipo": "Lineal por tramos",
+    "categoria": "Vía verde",
+    "descripcion": "Antigua vía ferroviaria acondicionada para senderismo y bicicleta por la Sierra Norte sevillana.",
+    "consejos": [
+      "Ideal para bicicleta o paseo largo.",
+      "Llevar agua.",
+      "Elegir tramo según nivel."
+    ]
+  },
+  {
+    "id": 6050,
+    "provincia": "Andalucía",
+    "nombre": "Corredor Verde del Guadiamar",
+    "ubicacion": "Aznalcázar / entorno del Guadiamar, Sevilla",
+    "comoLlegar": "Accesos por varios municipios del entorno del río Guadiamar.",
+    "distancia": "Por tramos",
+    "desnivel": "Bajo",
+    "duracion": "Variable",
+    "dificultad": "Fácil",
+    "tipo": "Lineal por tramos",
+    "categoria": "Río",
+    "descripcion": "Itinerario natural por el corredor ecológico del río Guadiamar, adecuado para paseos y bicicleta por tramos.",
+    "consejos": [
+      "Elegir tramo antes de salir.",
+      "Llevar protección solar.",
+      "Respetar fauna y zonas restauradas."
+    ]
+  }
+]

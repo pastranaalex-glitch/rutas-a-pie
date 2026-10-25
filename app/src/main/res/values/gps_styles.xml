@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="GpsStat">
+    <item name="android:textColor">#18452D</item>
+    <item name="android:textSize">16sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:gravity">center</item>
+    <item name="android:padding">8dp</item>
+    <item name="android:layout_margin">3dp</item>
+    <item name="android:background">@drawable/gps_card</item>
+  </style>
+  <style name="GpsSmallButton">
+    <item name="android:textColor">#18452D</item>
+    <item name="android:backgroundTint">#E3EEE6</item>
+    <item name="android:textSize">12sp</item>
+    <item name="android:textAllCaps">false</item>
+    <item name="android:minWidth">0dp</item>
+    <item name="android:paddingStart">4dp</item>
+    <item name="android:paddingEnd">4dp</item>
+  </style>
+  <style name="GpsPrimaryButton" parent="GpsSmallButton">
+    <item name="android:textColor">#FFFFFF</item>
+    <item name="android:backgroundTint">#216749</item>
+    <item name="android:textSize">15sp</item>
+  </style>
+  <style name="GpsSecondaryButton" parent="GpsSmallButton">
+    <item name="android:backgroundTint">#DCECE1</item>
+    <item name="android:textSize">14sp</item>
+  </style>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="sharedpref" path="rutas_a_pie_prefs.xml" />
+    <include domain="sharedpref" path="rutas_a_pie_recuperacion.xml" />
+</full-backup-content>

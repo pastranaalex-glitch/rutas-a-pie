@@ -1,0 +1,13 @@
+<resources>
+    <string name="help_action">Cómo usarla</string>
+    <string name="help_title">Ayuda de Rutas a Pie</string>
+    <string name="help_intro">Consulta esta guía sin conexión. Toca un apartado para abrirlo o escribe lo que buscas.</string>
+    <string name="help_search_hint">Buscar en ayuda: GPS, favoritas, GPX…</string>
+    <string name="help_back">Volver</string>
+    <string name="help_empty">No hay apartados con ese texto. Prueba otra palabra.</string>
+    <string name="help_load_failed">No se pudo cargar la ayuda. Consulta LEEME.md y AYUDA_USO.md del proyecto.</string>
+    <string name="help_expand">Abrir apartado: %1$s</string>
+    <string name="help_collapse">Cerrar apartado: %1$s</string>
+    <string name="help_section_closed">＋ %1$s</string>
+    <string name="help_section_open">− %1$s</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/gps_root" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+  <LinearLayout android:layout_width="match_parent" android:layout_height="56dp" android:gravity="center_vertical" android:paddingStart="8dp" android:paddingEnd="8dp" android:baselineAligned="false">
+    <Button android:id="@+id/gps_back" style="@style/GpsSmallButton" android:layout_width="48dp" android:layout_height="48dp" android:text="@string/back_glyph" android:contentDescription="@string/back_action" />
+    <TextView android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:paddingStart="8dp" android:paddingEnd="4dp" android:text="@string/gps_title" android:textColor="#18452D" android:textStyle="bold" android:textSize="22sp" />
+    <Button android:id="@+id/gps_history" style="@style/GpsSmallButton" android:layout_width="wrap_content" android:layout_height="48dp" android:text="@string/history_title" />
+  </LinearLayout>
+  <TextView android:id="@+id/gps_status" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="36dp" android:text="@string/gps_ready" android:textColor="#345C45" android:textSize="13sp" android:accessibilityLiveRegion="polite" android:paddingStart="16dp" android:paddingEnd="16dp" android:paddingTop="6dp" android:paddingBottom="6dp" />
+  <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+    <org.maplibre.android.maps.MapView android:id="@+id/gps_map" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/map_description" />
+    <TextView android:id="@+id/gps_precision" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="top|start" android:layout_margin="10dp" android:text="@string/gps_waiting" android:background="@drawable/gps_card" android:textColor="#345C45" android:textSize="13sp" android:elevation="4dp" android:paddingStart="12dp" android:paddingEnd="12dp" android:paddingTop="8dp" android:paddingBottom="8dp" />
+    <TextView android:id="@+id/gps_attribution" android:layout_width="wrap_content" android:layout_height="48dp" android:layout_gravity="bottom|start" android:gravity="center_vertical" android:background="#EFFFFFFF" android:text="@string/osm_attribution" android:textColor="#164C36" android:textSize="12sp" android:contentDescription="@string/osm_attribution_description" android:paddingStart="10dp" android:paddingEnd="10dp" />
+  </FrameLayout>
+  <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:overScrollMode="never">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="10dp">
+      <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:baselineAligned="false">
+        <TextView android:id="@+id/gps_distance" style="@style/GpsStat" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/stat_distance_initial" />
+        <TextView android:id="@+id/gps_duration" style="@style/GpsStat" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/stat_duration_initial" />
+      </LinearLayout>
+      <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:baselineAligned="false">
+        <TextView android:id="@+id/gps_speed" style="@style/GpsStat" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/stat_speed_initial" />
+        <TextView android:id="@+id/gps_average" style="@style/GpsStat" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:text="@string/stat_average_initial" />
+      </LinearLayout>
+      <TextView android:id="@+id/gps_coordinates" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:text="@string/gps_no_coordinates" android:textColor="#526559" android:textSize="12sp" android:textIsSelectable="true" android:paddingTop="5dp" android:paddingBottom="5dp" />
+      <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:baselineAligned="false">
+        <Button android:id="@+id/gps_record" style="@style/GpsPrimaryButton" android:layout_width="0dp" android:layout_height="52dp" android:layout_weight="1" android:text="@string/record_action" />
+        <Button android:id="@+id/gps_finish" style="@style/GpsSecondaryButton" android:layout_width="0dp" android:layout_height="52dp" android:layout_weight="1" android:text="@string/save_finish" />
+      </LinearLayout>
+      <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:baselineAligned="false">
+        <Button android:id="@+id/gps_locate" style="@style/GpsSmallButton" android:layout_width="0dp" android:layout_height="48dp" android:layout_weight="1" android:text="@string/my_position" />
+        <Button android:id="@+id/gps_start" style="@style/GpsSmallButton" android:layout_width="0dp" android:layout_height="48dp" android:layout_weight="1" android:text="@string/start_point_title" />
+        <Button android:id="@+id/gps_more" style="@style/GpsSmallButton" android:layout_width="0dp" android:layout_height="48dp" android:layout_weight="1" android:text="@string/more_action" />
+      </LinearLayout>
+    </LinearLayout>
+  </ScrollView>
+</LinearLayout>

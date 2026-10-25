@@ -1,0 +1,5 @@
+<resources>
+  <style name="Base.Theme.RutasAPie" parent="Theme.Material3.Light.NoActionBar">
+    <item name="android:windowBackground">#F2F6F3</item>
+  </style>
+</resources>

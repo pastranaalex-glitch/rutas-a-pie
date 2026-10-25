@@ -1,0 +1,6 @@
+<resources>
+    <item name="catalog_help" type="id" />
+    <item name="help_search" type="id" />
+    <item name="help_sections" type="id" />
+    <item name="help_back" type="id" />
+</resources>
